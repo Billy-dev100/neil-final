@@ -1,5 +1,5 @@
 DefaultContentLanguage = "en"
-baseURL = "https://nifty-kirch-a897d8.netlify.com/"
+baseURL = "https://inspiring-lewin-d37455.netlify.com/"
 disableLanguages = ["fr", ""]
 summaryLength = "10"
 theme = "biztrox-hugo"
