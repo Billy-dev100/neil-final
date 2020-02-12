@@ -1,6 +1,6 @@
 DefaultContentLanguage = "en"
 baseURL = "https://inspiring-lewin-d37455.netlify.com/"
-disableLanguages = ["fr", ""]
+disableLanguages = ["fr"]
 summaryLength = "10"
 theme = "biztrox-hugo"
 [Language]
@@ -372,10 +372,10 @@ description = "Airspace Hugo theme"
 gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
 googleAnalitycsID = "Your ID"
 logo = "images/logo-1.png"
-mail = "info@companyname.com"
+mail = "admin@moneypowerglobal.com"
 mailchimpFormAction = "https://themefisher.us9.list-manage.com/subscribe/post?u=f95ece2732a6e9925f2e70a61&amp;id=b1e227529e"
 mailchimpFormName = "b_f95ece2732a6e9925f2e70a61_b1e227529e"
 mapLatitude = "51.5223477"
 mapLongitude = "-0.1622023"
 mapMarker = "images/marker.png"
-mobile = "1234565523"
+mobile = "+44 20 7931 9881"
