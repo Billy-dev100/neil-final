@@ -1,6 +1,6 @@
 DefaultContentLanguage = "en"
 baseURL = "https://inspiring-lewin-d37455.netlify.com/"
-disableLanguages = ["fr"]
+disableLanguages = ["Fr", "fr"]
 summaryLength = "10"
 theme = "biztrox-hugo"
 [Language]
