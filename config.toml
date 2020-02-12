@@ -190,7 +190,7 @@ home = "FR-Home"
 languageCode = "fr-fr"
 languageName = "Fr"
 title = "Biztrox Franch"
-weight = 1
+weight = "2"
 [[Languages.fr.menu.nav]]
 URL = "/fr/about"
 name = "FR-About"
