@@ -4,6 +4,19 @@ titleSM: Clients
 title: What client Say
 image: images/client.png
 sliderItem:
+- subHeading: Neil & Spencer
+  heading: ''
+  description: ''
+  bgImage: ''
+  dataIcon: ''
+  dataText: ''
+  btn: ''
+  icon: ti-quote-left
+  content: We still feel indebted to you for the work Moneypower International undertook
+    for us and we are still reaping the benefits of the systems, training and advice
+    provided by your Team
+  name: Neil & Spencer
+  designation: ''
 - subHeading: Northern Telecom
   heading: ''
   description: ''
