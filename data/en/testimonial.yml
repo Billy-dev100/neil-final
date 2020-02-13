@@ -4,6 +4,19 @@ titleSM: Clients
 title: What client Say
 image: images/client.png
 sliderItem:
+- subHeading: SmithKline Beecham
+  heading: ''
+  description: ''
+  bgImage: ''
+  dataIcon: ''
+  dataText: ''
+  btn: ''
+  icon: ti-quote-left
+  content: Just a note to confirm my complete satisfaction with the manner in which
+    Moneypower International has acted on our behalf. I look forward to meeting with
+    you to discuss the next project
+  name: SmithKline Beecham
+  designation: ''
 - subHeading: Samuel Newhouse
   heading: ''
   description: ''
