@@ -2,30 +2,25 @@
 author = "Chris Wilkinson"
 bgImage = "images/background/page-title.jpg"
 categories = []
-date = 2019-04-30T05:07:10Z
+date = 2019-02-21T05:07:10Z
 description = "This is meta description"
-draft = true
-image = "images/blog/blog-3.jpg"
+image = "images/blog/blog-4.jpg"
 tags = ["Advice"]
-title = "Larger Companies 'Are Ignoring Rules' Overpaying Their Bills"
+title = "Optimising Payables & Receivabless"
 type = "post"
 
 +++
-I was somewhat disturbed to read in yesterday's Times, the following article by James Hurley Enterprise Editor.
+**With Brexit looming heavily** and uncertainty on the horizon, there is an inevitability of those new year goals being disrupted. It’s important to look ahead and plan for the numerous possibilities that face the UK, and there are improvements and processes that can be put in place now to help businesses generate more cash flow and minimise the uncertain outcome of Brexit.
 
-  
-**LARGER COMPANIES 'ARE IGNORING RULES' OVERPAYING THEIR BILLS**
+**It is important for both small and large businesses** to take control of its payments from its customers and to its suppliers which can make all the difference. The government is vowing to step up their efforts and take control of late payments to small businesses and get them paid within five days. Why not? The small businesses out there are our next PLCs.
 
-More than 1,000 business are flouting the law by ignoring rules that oblige them to report how long they take to pay suppliers. An analysis of government data by the Chartered Institute of Procurement & Supply highlighted a significant minority of large companies that had not complied with "duty to report" rules designed to clamp down on late payment of bills. Since 2017, large businesses have been required to publish reports on payments to suppliers at least twice per year. About 15,000 companies should have reported by now, but fewer than 14,000 submissions have been reported on the government portal.
+**Most large businesses have** their own accounts packages that have set payment terms to pay their suppliers. It’s virtually impossible for small businesses to negotiate better terms and they normally must work with a portal to load the invoice – causing extra administration. It’s not unusual for large companies to request a reduction in the invoice value if the supplier wants it paid in under 14 days, further squeezing margins.
 
-The institute, which represents supply chain professionals, said that the government must police the rules and ban those who cannot show that they pay suppliers on time from government work. The data showed that one-third of invoices were being paid late. BHP Billiton, DHL and GKN were among those "named and shamed" for not meeting the terms of the code.
+**Large businesses** can review their receivables and payables to keep their cash flowing. Moneypower sees many businesses paying their creditors within five days, which is great for their suppliers when most businesses offer 30 payment terms. If a larger supplier offers payment terms, you should pay on these terms, **and not earlier**, to help manage your cash flow.
 
-From September of this year, any supplier who bids for a government contract worth more than £5 Million a year will be required to answer questions about their payment practices and performance. The expected standard is to pay 95% of invoices with 60 days.
+**In today’s financial world** we have access to financial packages including flexible overdrafts, selective invoice finance, invoice discounting or factoring products to help bridge the gap between supplying products or services and getting paid for them. These products have their advantages and generate working capital within hours for a growing business, and normally with little security required from the finance provider. However, they come at a cost and as a business grows, so too the cost of the financial product.
 
-  
-**Moneypower has the solution.**
-
-For those large businesses 'approximately 1,000' that wish to stay with the government guidelines and thus avoid flouting the law, and risking their reputation in the process, **Moneypower can help. Moneypower has systems and procedures that ensure its Clients pay within the 60 days required while simultaneously maximising their cash position and at the same time enhancing their supplier relationships.** The time to act is now if such businesses wish to be considered for any future government contracts worth more than £5 Million per year. Moneypower says that there is just enough time to remedy this to meet the requirements by September 2019 for those large businesses that act now.
+**Moneypower specialises in helping businesses optimise** their receivables and payables, along with processes and procedures resulting in a plan of action to improve cash flow and working capital. We support businesses through the process by engaging with employees and help them make the necessary changes. Training of employees is one of the most important requirements that need addressing from the FD down to the finance assistants who are dealing with the payments. With our service, there is no need for extra financial products and businesses can expect more than a 250% ROI.
 
 > **For more detailed information on how Moneypower's solution can work for you - contact**
 >
