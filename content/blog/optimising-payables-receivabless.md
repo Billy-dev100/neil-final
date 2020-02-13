@@ -4,7 +4,6 @@ bgImage = "images/background/page-title.jpg"
 categories = []
 date = 2018-12-21T05:07:10Z
 description = "This is meta description"
-draft = true
 image = "images/blog/blog-5.jpg"
 tags = ["Advice"]
 title = "Tips for Managing Your Sales Ledger and Cash Flow"
