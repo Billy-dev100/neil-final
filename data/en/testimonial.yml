@@ -4,6 +4,18 @@ titleSM: Clients
 title: What client Say
 image: images/client.png
 sliderItem:
+- subHeading: Control Data
+  heading: ''
+  description: ''
+  bgImage: ''
+  dataIcon: ''
+  dataText: ''
+  btn: ''
+  icon: ti-quote-left
+  content: Thank you very much for your company’s excellent efforts and results and
+    your personal interest in our organization.
+  name: Control Data
+  designation: ''
 - subHeading: Chemical Bank
   heading: ''
   description: ''
