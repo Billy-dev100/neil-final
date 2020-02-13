@@ -62,7 +62,7 @@ bgImage = "images/background/cta.jpg"
 btnText = "get a quote"
 btnURL = "#"
 enable = true
-title = "Biztrox give the smart solution for your business"
+title = "Moneypower International gives the smart solution for your business"
 [Languages.en.params.footer]
 content = "Follow us on social media."
 copyright = "Moneypower International</span> &copy; 2020 All Right Reserved"
