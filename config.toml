@@ -70,7 +70,7 @@ btnURL = "#"
 enable = true
 title = "Biztrox give the smart solution for your business"
 [Languages.en.params.footer]
-content = "Lorem ipsum dolor amet consectetur adipisicing elit sed eiusm tempor incididunt labore dolore magna aliqua enim."
+content = "Follow us on social media."
 copyright = "Moneypower International</span> &copy; 2020 All Right Reserved"
 logo = "images/logo-footer.png"
 quickLink = "Quick Link"
