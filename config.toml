@@ -44,12 +44,12 @@ name = "Project"
 parent = "Pages"
 [Languages.en.params.about]
 bgImage = "images/background/about-bg.jpg"
-description = "Excepteur sint occaecat cupidatat non proident sunt culpa qui officia deserunt mollit anim id est laborum."
+description = "We are a Highly Acclaimed Specialist Management Consulting Company, Improving Working Capital Processes, One Business at a Time."
 enable = true
 title = "Who We Are?"
 [Languages.en.params.about.btn]
 btnText = "Explore More"
-btnURL = "#"
+btnURL = "/about/"
 enable = true
 [[Languages.en.params.about.listLeft]]
 listItem = "Business Services"
