@@ -7,7 +7,6 @@ cvURL = "#"
 date = 2018-09-29T08:42:31Z
 description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat irure dolor in reprehender."
 designation = "CEO"
-draft = true
 email = "philipwilson@biztrox.com"
 experienceOf = "13 Years"
 facebookURL = "#"
@@ -19,7 +18,7 @@ location = "2/A Southampton, Sandiago, USA."
 mobile = "+88 525 325 22"
 projectDone = 32
 successRate = "96%"
-title = "Andrew Givson"
+title = "Neil G Van Luven"
 twitterURL = "#"
 
 +++
