@@ -20,7 +20,8 @@ fields:
   config:
     wysiwyg: true
     schema:
-      format: markdown
+      format: html-blocks
+    required: false
 - type: field_group_list
   name: clientsLogoLeft
   label: clientsLogoLeft
