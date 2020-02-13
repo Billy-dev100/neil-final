@@ -22,7 +22,7 @@ philosophy:
     btnURL: "#"
 ceo:
   enable: true
-  bgImage: images/about/ceo.jpg
+  bgImage: images/about/ceo.png
   title: We are efficient to <br> make your business rise
   content: |-
     We select our team based on the circumstances of the Client and their mission-critical needs.
