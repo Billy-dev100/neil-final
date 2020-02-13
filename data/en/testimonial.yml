@@ -4,6 +4,19 @@ titleSM: Clients
 title: What client Say
 image: images/client.png
 sliderItem:
+- subHeading: Wm Brandts
+  heading: ''
+  description: ''
+  bgImage: ''
+  dataIcon: ''
+  dataText: ''
+  btn: ''
+  icon: ti-quote-left
+  content: There is no doubt that you did a very worthwhile job at Cardiff and the
+    total impression of integrity and your professional approach was confirmed when
+    we last met.
+  name: Wm Brandts
+  designation: ''
 - subHeading: Warner-Lambert
   heading: ''
   description: ''
