@@ -4,6 +4,19 @@ titleSM: Clients
 title: What client Say
 image: images/client.png
 sliderItem:
+- subHeading: Chemical Bank
+  heading: ''
+  description: ''
+  bgImage: ''
+  dataIcon: ''
+  dataText: ''
+  btn: ''
+  icon: ti-quote-left
+  content: Moneypower International’s excellent and professional manner reflects the
+    justifiable confidence you have displayed in assisting us with our receivables
+    problems
+  name: Chemical Bank
+  designation: ''
 - subHeading: Butler Aviation
   heading: ''
   description: ''
