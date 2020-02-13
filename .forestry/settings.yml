@@ -7,7 +7,6 @@ sections:
 - type: document
   path: data
   label: data
-  match: "**/*"
 - type: document
   path: config.toml
   label: configuration
