@@ -1,0 +1,33 @@
+---
+label: Test
+hide_body: true
+fields:
+- type: boolean
+  name: enable
+  label: enable
+- type: text
+  name: bgImage
+  label: bgImage
+- type: text
+  name: titleSM
+  label: titleSM
+- type: text
+  name: title
+  label: title
+- type: textarea
+  name: content
+  label: content
+- type: field_group_list
+  name: clientsLogoLeft
+  label: clientsLogoLeft
+  fields:
+  - type: file
+    name: logo
+    label: logo
+- type: field_group_list
+  name: clientsLogoRight
+  label: clientsLogoRight
+  fields:
+  - type: file
+    name: logo
+    label: logo
