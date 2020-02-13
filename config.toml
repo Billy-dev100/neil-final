@@ -52,17 +52,13 @@ btnText = "Explore More"
 btnURL = "/about/"
 enable = true
 [[Languages.en.params.about.listLeft]]
-listItem = "Business Services"
+listItem = "Diagnostic Review"
 [[Languages.en.params.about.listLeft]]
-listItem = "Audit & Assurance"
-[[Languages.en.params.about.listLeft]]
-listItem = "IT Control Solutions"
+listItem = "Benchmarking"
 [[Languages.en.params.about.listRight]]
-listItem = "Business Services"
+listItem = "Implementation & Educational Programmes"
 [[Languages.en.params.about.listRight]]
-listItem = "Audit & Assurance"
-[[Languages.en.params.about.listRight]]
-listItem = "IT Control Solutions"
+listItem = "Business Discontinuation Services"
 [Languages.en.params.cta]
 bgImage = "images/background/cta.jpg"
 btnText = "get a quote"
