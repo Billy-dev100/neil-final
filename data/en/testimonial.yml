@@ -4,6 +4,19 @@ titleSM: Clients
 title: What client Say
 image: images/client.png
 sliderItem:
+- subHeading: Olivetti
+  heading: ''
+  description: ''
+  bgImage: ''
+  dataIcon: ''
+  dataText: ''
+  btn: ''
+  icon: ti-quote-left
+  content: I have no hesitation in recommending Moneypower International. You have
+    distinguished yourselves and have acted in our best interests. I have no doubt
+    that our performance will continue to improve by following your lead
+  name: Olivetti
+  designation: ''
 - subHeading: Neil & Spencer
   heading: ''
   description: ''
