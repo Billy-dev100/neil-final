@@ -44,7 +44,7 @@ name = "Project"
 parent = "Pages"
 [Languages.en.params.about]
 bgImage = "images/background/about-bg.jpg"
-description = "We are a Highly Acclaimed Specialist Management Consulting Company, Improving Working Capital Processes, One Business at a Time. Key Achievements Include;"
+description = "We are a Highly Acclaimed Specialist Management Consulting Company, Improving Working Capital Processes, One Business at a Time. Some of our fun facts Include;"
 enable = true
 title = "Who We Are?"
 [Languages.en.params.about.btn]
