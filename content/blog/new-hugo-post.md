@@ -2,8 +2,9 @@
 title: Paying Your Suppliers Too Early Puts Unnecessary Pressure on Cash.
 bgImage: images/background/page-title.jpg
 date: 2019-07-08T05:35:34+00:00
-description: This is meta description
-author: Somrat
+description: Businesses go under because they run out of cash, not because they’re
+  not profitable
+author: Chris Wilkinson
 type: post
 image: images/blog/blog-1.jpg
 categories:
