@@ -18,7 +18,7 @@ counter:
   title: Satisfied Clients
   count: "1027"
 - icon: ti-thumb-up
-  title: Successful Jurisdictions (countries)
+  title: Successful Jurisdictions
   count: "48"
 progressBar:
 - title: Branding
