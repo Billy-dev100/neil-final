@@ -5,8 +5,9 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: document
-  path: data
-  label: data
+  path: data/en/about.yml
+  label: data-about
+  match: "**/*"
 - type: document
   path: config.toml
   label: configuration
