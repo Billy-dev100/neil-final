@@ -2,27 +2,33 @@
 author = "Chris Wilkinson"
 bgImage = "images/background/page-title.jpg"
 categories = []
-date = 2019-02-21T05:07:10Z
+date = 2018-12-21T05:07:10Z
 description = "This is meta description"
 draft = true
-image = "images/blog/blog-4.jpg"
+image = "images/blog/blog-5.jpg"
 tags = ["Advice"]
-title = "Optimising Payables & Receivabless"
+title = "Tips for Managing Your Sales Ledger and Cash Flow"
 type = "post"
 
 +++
-**With Brexit looming heavily** and uncertainty on the horizon, there is an inevitability of those new year goals being disrupted. It’s important to look ahead and plan for the numerous possibilities that face the UK, and there are improvements and processes that can be put in place now to help businesses generate more cash flow and minimise the uncertain outcome of Brexit.
+**Managing your sales ledger** on a day-to-day basis is just as important as bringing in new sales. Having control over the ledger is vital to success and growing the business.
 
-**It is important for both small and large businesses** to take control of its payments from its customers and to its suppliers which can make all the difference. The government is vowing to step up their efforts and take control of late payments to small businesses and get them paid within five days. Why not? The small businesses out there are our next PLCs.
+**With my 20 years of experience** in banking and finance, when I review a business, I always pick up a sales ledger first before looking at the up-to-date accounts. You can tell how well a business is being run by looking at the sales ledger. Ideally, 70% of the ledger should be in the ‘current to 30 days’ column, 25% in ‘31 to 60 days’, and 5% in ‘61 plus’. It would be beneficial if all business ledgers ran like this, but in reality, this isn’t the case. If you have a lot of customers with long payment terms, you’re likely to be waiting a long time for funds to be paid, which can cause day-to-day cash flow problems.
 
-**Most large businesses have** their own accounts packages that have set payment terms to pay their suppliers. It’s virtually impossible for small businesses to negotiate better terms and they normally must work with a portal to load the invoice – causing extra administration. It’s not unusual for large companies to request a reduction in the invoice value if the supplier wants it paid in under 14 days, further squeezing margins.
+It’s important to stay on top of the sales ledger and to get payments in on time. However, sending invoices out and posting to the ledger is just the start of getting your payment in.
 
-**Large businesses** can review their receivables and payables to keep their cash flowing. Moneypower sees many businesses paying their creditors within five days, which is great for their suppliers when most businesses offer 30 payment terms. If a larger supplier offers payment terms, you should pay on these terms, **and not earlier**, to help manage your cash flow.
+**There are lots of ways you can manage payments and customers more effectively.**
 
-**In today’s financial world** we have access to financial packages including flexible overdrafts, selective invoice finance, invoice discounting or factoring products to help bridge the gap between supplying products or services and getting paid for them. These products have their advantages and generate working capital within hours for a growing business, and normally with little security required from the finance provider. However, they come at a cost and as a business grows, so too the cost of the financial product.
+1. **Know your customer.** Check their accounts on Companies House and look at the balance sheet, what is their net worth, how much cash have they got in the bank? Make sure they’re a sound business – they’ll be more likely to pay you on time.
+2. **Make sure you agree** on suitable payment terms at the beginning, and you’re clear on your payment terms with the customer, don’t just be pleased to have the business. Making your terms clear and understood with the decision-maker is important. Ensure this information is passed onto the finance team and the person who will be paying your invoices, especially if you’re working with a large company.
+3. **Try and ensure** your finance team and the customer’s finance team are on good terms and know each other well. Business can be won and lost on relationships, and this goes for all departments. Knowing who to call to chase payments and answer queries saves a lot of time and effort.
 
-**Moneypower specialises in helping businesses optimise** their receivables and payables, along with processes and procedures resulting in a plan of action to improve cash flow and working capital. We support businesses through the process by engaging with employees and help them make the necessary changes. Training of employees is one of the most important requirements that need addressing from the FD down to the finance assistants who are dealing with the payments. With our service, there is no need for extra financial products and businesses can expect more than a 250% ROI.
+   **Top tip: When visiting your customer after you have done work together, continue building your relationships and help keep the competitors out. Ask to meet some of the teams in finance and other departments. Saying hello and thank you can go a long way.**
+4. **Send statements** out to your customers. It’s a great way to remind your customers about outstanding invoices, and you can do this easily in most account packages now.
+5. **All this can be a challenge** if you have different ledgers in different currencies. Payments can get held up by third parties like banks or be subject to additional security checks. With overseas customers, the upfront payment is the preferred choice or at least 50% of the invoice upfront. It can be difficult to chase money overseas, and if it turns out to be a bad debt, this can be even more complex and drawn out. Once again, make sure your customer is clear on payment terms.
 
-> **For more detailed information on how Moneypower's solution can work for you - contact**
+**At Moneypower we support businesses** by reviewing their financial procedures and helping them to free up working capital, without the need for finance facilities. 
+
+> If you feel we can help by increasing cash flow and reducing your debtor days, please contact Chris Wilkinson.
 >
 > [chris.wilkinson@moneypowerglobal.com](mailto:chris.wilkinson@moneypowerglobal.com)
