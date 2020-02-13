@@ -4,6 +4,19 @@ titleSM: Clients
 title: What client Say
 image: images/client.png
 sliderItem:
+- subHeading: Samuel Newhouse
+  heading: ''
+  description: ''
+  bgImage: ''
+  dataIcon: ''
+  dataText: ''
+  btn: ''
+  icon: ti-quote-left
+  content: Thank you for your personal approach, understanding and genuine interest
+    in our receivables problems. I am impressed with the efficiency of Moneypower
+    International’s staff and the fine job done for us.
+  name: Samuel Newhouse
+  designation: ''
 - subHeading: Saks Fifth Avenue
   heading: ''
   description: ''
