@@ -42,3 +42,6 @@ fields:
   config:
     required: false
   label: title2
+  showOnly:
+    field: enable
+    value: true
