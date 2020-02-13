@@ -30,7 +30,3 @@ For those large businesses 'approximately 1,000' that wish to stay with the gove
 > **For more detailed information on how Moneypower's solution can work for you - contact**
 >
 > [chris.wilkinson@moneypowerglobal.com](mailto:chris.wilkinson@moneypowerglobal.com)
-
-## Syntax
-
-`<h1> Title </h1> <span> Hello World </span>`
