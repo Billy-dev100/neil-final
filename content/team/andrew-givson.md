@@ -1,8 +1,8 @@
 +++
 bgImage = "images/background/page-title.jpg"
 branding = "85%"
-business = "75%"
-consulting = "90%"
+business = "99%"
+consulting = "100%"
 cvURL = "#"
 date = 2018-09-29T08:42:31Z
 description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat irure dolor in reprehender."
