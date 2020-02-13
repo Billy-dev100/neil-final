@@ -69,7 +69,7 @@ copyright = "Moneypower International</span> &copy; 2020 All Right Reserved"
 logo = "images/logo-footer.png"
 quickLink = "Quick Link"
 services = "Services"
-subscribe = "Subscribe Us"
+subscribe = "Contact Us"
 subscribeContent = "Lorem ipsum dolor sit amet, consect etur adipisicing. elit sed do eiusmod."
 [[Languages.en.params.footer.links]]
 URL = "#"
