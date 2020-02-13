@@ -4,6 +4,18 @@ titleSM: Clients
 title: What client Say
 image: images/client.png
 sliderItem:
+- subHeading: IBM
+  heading: ''
+  description: ''
+  bgImage: ''
+  dataIcon: ''
+  dataText: ''
+  btn: ''
+  icon: ti-quote-left
+  content: During the past year, I have been satisfied in every respect with your
+    modus operandi. I have no hesitancy in recommending your services
+  name: IBM
+  designation: ''
 - subHeading: Honeywell
   heading: ''
   description: ''
