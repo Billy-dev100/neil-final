@@ -35,9 +35,9 @@ funfacts:
   enable: true
   bgImage: images/background/cta.jpg
   counter:
-  - title: Successful Jurisdictions (countries)
+  - title: Billions of Dollars Generated for Businesses So Far
     icon: ti-server
-    count: "48"
+    count: "55"
   - title: Satisfied Clients
     icon: ti-face-smile
     count: "1027"
