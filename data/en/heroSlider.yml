@@ -35,10 +35,10 @@ sliderItem:
     enable: true
     btnText: More details
     btnURL: "#"
-- subHeading: We are always
-  heading: Be Inspired By Best
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor <br> incididunt ut labore et dolore magna aliqua.
+- subHeading: We are always "hands on"
+  heading: Be Inspired By the Best.
+  description: We have nine years of relevant industry experience <br>  in the accounts
+    receivable/accounts payable function..
   bgImage: images/banner/banner-4.jpg
   dataIcon: ti-package
   dataText: Human Resources
