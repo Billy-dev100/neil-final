@@ -1,12 +1,10 @@
 ---
 enable: true
 sliderItem:
-- subHeading: ''
-  heading: A highly acclaimed specialist Management  Consulting Company
-  description: In the beginning, Moneypower provided collection-oriented assistance
-    that focused on post-billing issues.  <br> Over the years, the scope and depth
-    of the services have evolved to encompass the entire accounts receivable and accounts
-    payable process life-cycles.
+- subHeading: Problems with receivables?
+  heading: Consult with the best
+  description: Moneypower provides specialist management consulting  <br> for the
+    entire accounts receivable and accounts payable process life-cycles.
   bgImage: images/banner/banner-1.jpg
   dataIcon: ti-comments
   dataText: Consultation
