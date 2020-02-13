@@ -4,6 +4,22 @@ titleSM: Clients
 title: What client Say
 image: images/client.png
 sliderItem:
+- subHeading: Warner-Lambert
+  heading: ''
+  description: ''
+  bgImage: ''
+  dataIcon: ''
+  dataText: ''
+  btn: ''
+  icon: ti-quote-left
+  content: We have recently agreed as part of our “Export Systems Steering Committee”
+    to advance the computerization of our Export Sales Ledger activities. This has
+    been made possible due to the help of Moneypower International’s team of Practitioners
+    provided this past year. I would like to express my gratitude for the excellent
+    manner in which your Project Director has instilled a highly effective spirit
+    of co-operation with our staff.
+  name: Warner-Lambert
+  designation: ''
 - subHeading: Unisys
   heading: ''
   description: ''
