@@ -12,10 +12,10 @@ sliderItem:
     enable: true
     btnText: More details
     btnURL: "#"
-- subHeading: Get your
-  heading: Business Consultant
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor <br> incididunt ut labore et dolore magna aliqua.
+- subHeading: Improving working capital processes
+  heading: One Business at a Time
+  description: Moneypower International deals with methodologies, analytics, and risk
+    <br> to generate cash and enhance the reputation of the Client.
   bgImage: images/banner/banner-2.jpg
   dataIcon: ti-bar-chart
   dataText: Marketting
