@@ -4,6 +4,19 @@ titleSM: Clients
 title: What client Say
 image: images/client.png
 sliderItem:
+- subHeading: NCR
+  heading: ''
+  description: ''
+  bgImage: ''
+  dataIcon: ''
+  dataText: ''
+  btn: ''
+  icon: ti-quote-left
+  content: We are particularly satisfied with your willingness to assist wherever
+    and whenever a problem arises. It is with confidence that we turn to your company
+    for advice
+  name: NCR
+  designation: ''
 - subHeading: May & Baker
   heading: ''
   description: ''
