@@ -24,11 +24,10 @@ ceo:
   enable: true
   bgImage: images/about/ceo.jpg
   title: We are efficient to <br> make your business rise
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit sed eiusmod tempor
-    didunt laboris nisi ut aliquip ex commodo consequat. duis aute irure dolor in
-    reprehenderit voluptate velit esse cillum dolore fugiat nulla pariatur.Excepteur
-    sint ocaecat cupidatat non proident sunt culpa qui officia deserunt mollit anim
-    id est laborum.
+  content: |-
+    We select our team based on the circumstances of the Client and their mission-critical needs.
+
+    At all times, we strive to deploy the perfect mix of experience and know-how to ensure 100% success.
   signature: images/about/ceo-signature.png
   name: John Doe
   designation: CEO
