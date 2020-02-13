@@ -60,7 +60,7 @@ listItem = "Confidence to assure our clients a ROI of more than 250%, and enhanc
 [Languages.en.params.cta]
 bgImage = "images/background/cta.jpg"
 btnText = "get a quote"
-btnURL = "admin@moneypowerglobal.com"
+btnURL = "/contact/"
 enable = true
 title = "Moneypower International gives the smart solution for your business"
 [Languages.en.params.footer]
