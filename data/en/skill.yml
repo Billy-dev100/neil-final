@@ -22,10 +22,10 @@ counter:
   count: "48"
 progressBar:
 - title: Diagnostic Review
-  progress: 95%
-- title: Consulting
-  progress: 90%
-- title: Business
-  progress: 75%
-- title: Promotion
-  progress: 90%
+  progress: 99%
+- title: Benchmarking
+  progress: 99%
+- title: Implementation & Educational Programmes
+  progress: 99%
+- title: Business Discontinuation Services
+  progress: 99%
