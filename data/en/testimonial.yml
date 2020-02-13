@@ -4,6 +4,22 @@ titleSM: Clients
 title: What client Say
 image: images/client.png
 sliderItem:
+- subHeading: Unisys
+  heading: ''
+  description: ''
+  bgImage: ''
+  dataIcon: ''
+  dataText: ''
+  btn: ''
+  icon: ti-quote-left
+  content: My recent review of the European reports again causes a hearty “Congratulations”
+    to all involved at Moneypower for the im­pressive performance results they have
+    consistently aided Unisys to achieve in France, Italy and Spain. Cash generation
+    potential well in excess of the $53 Million and other difficult, challenging performance
+    gains identified through the Diagnostic Review briefing reports have now been
+    clearly and tangibly demonstrated for these historically frustrating operations
+  name: Unisys
+  designation: ''
 - subHeading: Transcar International
   heading: ''
   description: ''
