@@ -7,35 +7,27 @@ sections:
 - type: document
   path: data/en/testimonial.yml
   label: Data- testimonials
-  match: "**/*"
 - type: document
   path: data/en/team.yml
   label: Data-team
-  match: "**/*"
 - type: document
   path: data/en/skill.yml
   label: Data-skill
-  match: "**/*"
 - type: document
   path: data/en/satisfiedClients.yml
   label: Data-satisfied client
-  match: "**/*"
 - type: document
   path: data/en/project.yml
   label: Data-project
-  match: "**/*"
 - type: document
   path: data/en/pricing.yml
   label: Data-Pricing
-  match: "**/*"
 - type: document
   path: data/en/mission.yml
   label: Data- Mission
-  match: "**/*"
 - type: document
   path: data/en/heroSlider.yml
   label: Data- hero slider
-  match: "**/*"
 - type: document
   path: data/en/contact.yml
   label: data-contact
