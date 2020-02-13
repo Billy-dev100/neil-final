@@ -35,9 +35,9 @@ funfacts:
   enable: true
   bgImage: images/background/cta.jpg
   counter:
-  - title: Projects Done
+  - title: Successful Jurisdictions (countries)
     icon: ti-server
-    count: "230"
+    count: "48"
   - title: Satisfied Clients
     icon: ti-face-smile
     count: "1027"
