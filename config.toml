@@ -57,8 +57,6 @@ listItem = "43 years experience on behalf of over 1,000 Clients globally."
 listItem = "Generated over $55 Billion in Cash for 1,000 Clients globally."
 [[Languages.en.params.about.listRight]]
 listItem = "Confidence to assure our clients a ROI of more than 250%, and enhanced employee engagement."
-[[Languages.en.params.about.listRight]]
-listItem = "Business Discontinuation Services"
 [Languages.en.params.cta]
 bgImage = "images/background/cta.jpg"
 btnText = "get a quote"
