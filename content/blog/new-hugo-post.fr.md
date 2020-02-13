@@ -3,7 +3,7 @@ title: 'Paying Your Suppliers Too Early Puts Unnecessary Pressure on Cash. '
 bgImage: images/background/page-title.jpg
 date: 2019-07-07T21:00:00+00:00
 description: ''
-author: 'Chris Wilkinson - Director & Senior Consultant '
+author: Chris Wilkinson
 type: post
 image: images/blog/blog-1.jpg
 categories:
