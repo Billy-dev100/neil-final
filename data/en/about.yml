@@ -1,39 +1,50 @@
-philosophy :
-  enable : true
-  titleSM : Know About
-  title : Our Philosophy
-  content : Lorem ipsum dolor sit amet consectetur adipisicing elit sed eiusmod tempor didunt laboris nisi ut aliquip ex commodo consequat. duis aute irure dolor in reprehenderivoluptate velit esse cillum dolore fugiat nulla pariatur.Excepteur sint ocaecat cupidatat noproident sunt culpa qui officia deserunt mollit anim id est laborum.<br> Sed perspiciatis unde omnisiste natus error sit voluptatem accusantium.doloremque ladantium totam rem aperieaque ipsa quae ab illo inventore.veritatis. et quasi architecto beatae vitae dicta sunt explicabo.
-  image : images/about/philosophy.jpg
-  btn :
-    enable : true
-    btnText : Explore More
-    btnURL : "#"
+---
+philosophy:
+  enable: true
+  titleSM: Know About
+  title: Our Company
+  content: |-
+    Moneypower International is a boutique consultancy specialising and helping Clients increase their cash generation by focusing on working capital reduction. We have done this successfully over more than four decades in every conceivable industry in virtually all jurisdictions where transparency in financial reporting (the equivalent of GAAP) exists.
 
-ceo :
-  enable : true
-  bgImage : images/about/ceo.jpg
-  title : We are efficient to <br> make your business rise
-  content : Lorem ipsum dolor sit amet consectetur adipisicing elit sed eiusmod tempor didunt laboris nisi ut aliquip ex commodo consequat. duis aute irure dolor in reprehenderit voluptate velit esse cillum dolore fugiat nulla pariatur.Excepteur sint ocaecat cupidatat non proident sunt culpa qui officia deserunt mollit anim id est laborum.
-  signature : images/about/ceo-signature.png
-  name : John Doe
-  designation : CEO
+    Many of our Clients perceive that performance improvements in challenging circumstances are extremely difficult to accomplish. Moneypower International demonstrates that progress can be achieved rapidly and permanently and in the process has helped over 1,000 Clients generate in excess of $55 billion on a permanent and sustainable basis.
 
-funfacts : 
-  enable : true
-  bgImage : images/background/cta.jpg
-  counter : 
-    - title : Projects Done
-      icon : ti-server
-      count : 230
-      
-    - title : Satisfied Clients
-      icon : ti-face-smile
-      count : 789
-      
-    - title : Cup Of Coffee
-      icon : ti-thumb-up
-      count : 580
-      
-    - title : Awards Win
-      icon : ti-cup
-      count : 130
+    <br> Moneypower International’s Practitioners and analytical support personnel strive continuously to improve. They aspire for greater performance improvements for all Clients respecting Clients’ staff members’ inputs, ideas, and opinions.
+
+    Moneypower International’s typical Practitioner profile includes a strong background in finance, accounting, marketing, banking, and operational management.  They are assertive but diplomatic, organised, and flexible and they focus on leaving our Client in the strongest cash generation position possible.
+
+
+    Their role is one of mentor and collaborator — they ensure that Client staff members become “bought-in” participants in the
+    improvement process.
+  image: images/about/philosophy.jpg
+  btn:
+    enable: true
+    btnText: Explore More
+    btnURL: "#"
+ceo:
+  enable: true
+  bgImage: images/about/ceo.jpg
+  title: We are efficient to <br> make your business rise
+  content: Lorem ipsum dolor sit amet consectetur adipisicing elit sed eiusmod tempor
+    didunt laboris nisi ut aliquip ex commodo consequat. duis aute irure dolor in
+    reprehenderit voluptate velit esse cillum dolore fugiat nulla pariatur.Excepteur
+    sint ocaecat cupidatat non proident sunt culpa qui officia deserunt mollit anim
+    id est laborum.
+  signature: images/about/ceo-signature.png
+  name: John Doe
+  designation: CEO
+funfacts:
+  enable: true
+  bgImage: images/background/cta.jpg
+  counter:
+  - title: Projects Done
+    icon: ti-server
+    count: "230"
+  - title: Satisfied Clients
+    icon: ti-face-smile
+    count: "789"
+  - title: Cup Of Coffee
+    icon: ti-thumb-up
+    count: "580"
+  - title: Awards Win
+    icon: ti-cup
+    count: "130"
