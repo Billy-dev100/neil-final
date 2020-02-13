@@ -1,17 +1,27 @@
-enable : true
-titleSM : Our Goal
-title : Company Mission
-description : Lorem ipsum dolor sit amet consectetur adipisicing elit sed eiusmod tempor didunt laboris nisi ut aliquip ex ea commodo consequat.
-image : images/chart.png
-accordion :
-  - ID : collapseOne
-    title : Our Company Mission
-    description : Duis aute irure dolor in reprehenderit voluptate velit esse cillum dolore fugiat nulla pariatur.Excepteur sint ocaecat cupidatat non proident sunt culpa qui officia deserunt mollit anim id est laborum.
-    
-  - ID : collapseTwo
-    title : Our Company Mission
-    description : Duis aute irure dolor in reprehenderit voluptate velit esse cillum dolore fugiat nulla pariatur.Excepteur sint ocaecat cupidatat non proident sunt culpa qui officia deserunt mollit anim id est laborum.
-    
-  - ID : collapseThree
-    title : Our Company Mission
-    description : Duis aute irure dolor in reprehenderit voluptate velit esse cillum dolore fugiat nulla pariatur.Excepteur sint ocaecat cupidatat non proident sunt culpa qui officia deserunt mollit anim id est laborum.
+---
+enable: true
+titleSM: ''
+title: Our Goal
+description: Moneypower International specialises in improving working capital processes,
+  in particular accounts receivables and accounts payables dealing with methodologies,
+  analytics, and risk. The key objective is to generate cash and enhance the reputation
+  of the Client. Moneypower has 43 years experience on behalf of over 1,000 Clients
+  globally.
+image: ''
+accordion:
+- ID: collapseOne
+  title: Our Company Mission
+  description: 'Moneypower International''s, mission is to assist Clients to optimise
+    cash generation and EBITA, which enhances the customer and supplier relationships.
+    A satisfied customer is the best business strategy of all. Our attention to detail
+    creates the big picture for our Client. '
+- ID: collapseTwo
+  title: Our Company Mission
+  description: Duis aute irure dolor in reprehenderit voluptate velit esse cillum
+    dolore fugiat nulla pariatur.Excepteur sint ocaecat cupidatat non proident sunt
+    culpa qui officia deserunt mollit anim id est laborum.
+- ID: collapseThree
+  title: Our Company Mission
+  description: Duis aute irure dolor in reprehenderit voluptate velit esse cillum
+    dolore fugiat nulla pariatur.Excepteur sint ocaecat cupidatat non proident sunt
+    culpa qui officia deserunt mollit anim id est laborum.
