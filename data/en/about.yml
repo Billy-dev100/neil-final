@@ -35,7 +35,7 @@ funfacts:
   enable: true
   bgImage: images/background/cta.jpg
   counter:
-  - title: Billions of Dollars Generated for Businesses So Far
+  - title: Billion Dollars Generated for Businesses So Far
     icon: ti-server
     count: "55"
   - title: Satisfied Clients
