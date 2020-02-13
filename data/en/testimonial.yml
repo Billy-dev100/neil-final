@@ -4,6 +4,19 @@ titleSM: Clients
 title: What client Say
 image: images/client.png
 sliderItem:
+- subHeading: ''
+  heading: ''
+  description: ''
+  bgImage: ''
+  dataIcon: ''
+  dataText: ''
+  btn: ''
+  icon: ti-quote-left
+  content: Your Practitioners are first class and most knowledgeable. They have distinguished
+    themselves in the fine handling of our customers and their queries. We are extremely
+    pleased with the assistance Moneypower International has given.
+  name: Rank Audio Visual
+  designation: ''
 - subHeading: Pickfords International
   heading: ''
   description: ''
