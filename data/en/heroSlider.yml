@@ -18,7 +18,7 @@ sliderItem:
     <br> to generate cash and enhance the reputation of the Client.
   bgImage: images/banner/banner-2.jpg
   dataIcon: ti-bar-chart
-  dataText: Marketting
+  dataText: Benchmarking
   btn:
     enable: true
     btnText: More details
