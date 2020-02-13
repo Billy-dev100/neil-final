@@ -4,6 +4,19 @@ titleSM: Clients
 title: What client Say
 image: images/client.png
 sliderItem:
+- subHeading: Meyer & Baker
+  heading: ''
+  description: ''
+  bgImage: ''
+  dataIcon: ''
+  dataText: ''
+  btn: ''
+  icon: ti-quote-left
+  content: As I am just on the point of taking early retirement I thought it a good
+    idea to write to thank you for giving us one of the best sustained periods of
+    credit control performance in our history
+  name: May & Baker
+  designation: ''
 - subHeading: Matchbox Toys
   heading: ''
   description: ''
