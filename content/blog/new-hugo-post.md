@@ -32,7 +32,7 @@ Systems and procedures should be in place to ensure that your business is maximi
 
 The ‘Best In Class’ Systems and Procedures to manage your suppliers can be a complex challenge and can be very time-consuming. At Moneypower Global, we can do this for you and generate more cash for your business in the process.
 
-> For more detailed information on how Moneypower's solution can work for you - contact
+> **For more detailed information on how Moneypower's solution can work for you - contact**
 >
 > Chris Wilkinson
 >
