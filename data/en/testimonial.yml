@@ -4,6 +4,20 @@ titleSM: Clients
 title: What client Say
 image: images/client.png
 sliderItem:
+- subHeading: Honeywell
+  heading: ''
+  description: ''
+  bgImage: ''
+  dataIcon: ''
+  dataText: ''
+  btn: ''
+  icon: ti-quote-left
+  content: I am sure you will be interested to know that at 31 December our number
+    of days billing outstanding in receivables was reduced 42% from the starting point.
+    This achievement was due to your help and our ability to continue the momentum
+    you built up
+  name: Honeywell
+  designation: ''
 - subHeading: Hill Samuel
   heading: ''
   description: ''
