@@ -11,7 +11,7 @@ sliderItem:
   dataIcon: ti-comments
   dataText: Consultation
   btn:
-    enable: false
+    enable: true
     btnText: More details
     btnURL: "#"
 - subHeading: Get your
