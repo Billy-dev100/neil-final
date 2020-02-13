@@ -23,10 +23,11 @@ sliderItem:
     enable: true
     btnText: More details
     btnURL: "#"
-- subHeading: Start your
-  heading: Future Plan
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor <br> incididunt ut labore et dolore magna aliqua.
+- subHeading: Increase your cash generation
+  heading: Continuous Improvement
+  description: Many of our Clients perceive that performance improvements in challenging
+    circumstances are extremely difficult to accomplish. <br> Moneypower International’s
+    Practitioners and analytical support personnel strive continuously to improve
   bgImage: images/banner/banner-3.jpg
   dataIcon: ti-money
   dataText: Finance
