@@ -30,7 +30,7 @@ sliderItem:
     Practitioners and analytical support personnel strive continuously to improve
   bgImage: images/banner/banner-3.jpg
   dataIcon: ti-money
-  dataText: Finance
+  dataText: Diagnostic Review
   btn:
     enable: true
     btnText: More details
