@@ -22,6 +22,7 @@ fields:
     schema:
       format: html-blocks
     required: false
+  description: description goes here
 - type: field_group_list
   name: clientsLogoLeft
   label: clientsLogoLeft
