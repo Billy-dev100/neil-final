@@ -59,7 +59,7 @@ listItem = "Generated over $55 Billion in Cash for 1,000 Clients globally."
 listItem = "Confidence to assure our clients a ROI of more than 250%, and enhanced employee engagement."
 [Languages.en.params.cta]
 bgImage = "images/background/cta.jpg"
-btnText = "Send us a message"
+btnText = "Get a quote"
 btnURL = "/contact/"
 enable = true
 title = "Moneypower International gives the smart solution for your business. We are ready to serve you any time."
