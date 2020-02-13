@@ -5,10 +5,10 @@ summaryLength = "10"
 theme = "biztrox-hugo"
 [Language]
 [Languages.en]
-home = "Home"
+home = ""
 languageCode = "en-us"
-languageName = "En"
-title = "Biztrox"
+languageName = ""
+title = "Moneypower International"
 weight = 1
 [[Languages.en.menu.nav]]
 URL = "/about"
