@@ -4,6 +4,21 @@ titleSM: Clients
 title: What client Say
 image: images/client.png
 sliderItem:
+- subHeading: General Electric
+  heading: ''
+  description: ''
+  bgImage: ''
+  dataIcon: ''
+  dataText: ''
+  btn: ''
+  icon: ti-quote-left
+  content: We are very satisfied with your work in Belgium and the Eastern Bloc. The
+    results were very impressive, greater than your initial commitment to us and have
+    remained satisfactory a year and a half after your assignment ended. I think your
+    biggest contribution is the establishment of an organizational process and culture
+    that help obtain good results on a routine basis
+  name: General Electric
+  designation: ''
 - subHeading: General Electric Medical
   heading: ''
   description: ''
