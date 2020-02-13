@@ -4,6 +4,18 @@ titleSM: Clients
 title: What client Say
 image: images/client.png
 sliderItem:
+- subHeading: Northern Telecom
+  heading: ''
+  description: ''
+  bgImage: ''
+  dataIcon: ''
+  dataText: ''
+  btn: ''
+  icon: ti-quote-left
+  content: We are grateful for the valuable insight Moneypower International’s Diagnostic
+    Review has provided into our German operation. Thank you for your good work
+  name: Northern Telecom
+  designation: ''
 - subHeading: NCR
   heading: ''
   description: ''
