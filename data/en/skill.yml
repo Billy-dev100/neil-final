@@ -21,8 +21,8 @@ counter:
   title: Successful Jurisdictions
   count: "48"
 progressBar:
-- title: Branding
-  progress: 85%
+- title: Diagnostic Review
+  progress: 95%
 - title: Consulting
   progress: 90%
 - title: Business
