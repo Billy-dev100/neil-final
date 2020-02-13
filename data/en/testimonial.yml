@@ -4,6 +4,19 @@ titleSM: Clients
 title: What client Say
 image: images/client.png
 sliderItem:
+- subHeading: Kierulff Electronics
+  heading: ''
+  description: ''
+  bgImage: ''
+  dataIcon: ''
+  dataText: ''
+  btn: ''
+  icon: ti-quote-left
+  content: Moneypower International’s willingness to go further, dig deeper and work
+    longer than called for in your Diagnostic Review provided us with the sound, feasible
+    recommendations which we have implemented with success.
+  name: Kierulff Electronics
+  designation: ''
 - subHeading: IBM
   heading: ''
   description: ''
