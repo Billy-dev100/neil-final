@@ -5,9 +5,12 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: document
+  path: data/en/contact.yml
+  label: contact
+  match: "**/*"
+- type: document
   path: data/en/about.yml
   label: data-about
-  match: "**/*"
 - type: document
   path: config.toml
   label: configuration
