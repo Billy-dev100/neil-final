@@ -4,6 +4,22 @@ titleSM: Clients
 title: What client Say
 image: images/client.png
 sliderItem:
+- subHeading: TPG
+  heading: ''
+  description: ''
+  bgImage: ''
+  dataIcon: ''
+  dataText: ''
+  btn: ''
+  icon: ti-quote-left
+  content: I have used Moneypower across three continents at five companies over the
+    last twenty-one years and they have always performed way beyond expectations.
+    The tougher the receivables problem, the better the result Moneypower delivers.
+    They are not great at PowerPoint presentations, do not have HBS degrees and do
+    not feel like McKinsey or Bain, but they sure deliver sustainable cash-flow improvements.
+    Nobody else I know of works at their level of detail
+  name: TPG
+  designation: ''
 - subHeading: SmithKline Beecham
   heading: ''
   description: ''
