@@ -4,6 +4,19 @@ titleSM: Clients
 title: What client Say
 image: images/client.png
 sliderItem:
+- subHeading: Transcar International
+  heading: ''
+  description: ''
+  bgImage: ''
+  dataIcon: ''
+  dataText: ''
+  btn: ''
+  icon: ti-quote-left
+  content: The professional assistance, which Moneypower International has rendered,
+    has been invaluable. I have seldom had dealings with a company, which so consistently
+    displays your standards of excellence and professionalism
+  name: Transcar International
+  designation: ''
 - subHeading: TPG
   heading: ''
   description: ''
