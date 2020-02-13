@@ -37,3 +37,8 @@ fields:
   - type: file
     name: logo
     label: logo
+- name: title2
+  type: text
+  config:
+    required: false
+  label: title2
