@@ -159,7 +159,7 @@ URL = "#"
 image = "images/client-logo/client-logo-5.png"
 [Languages.en.params.promoVideo]
 bgImage = "images/background/promo-video.jpg"
-enable = true
+enable = false
 heading = "We Are Alawys <br> Comited"
 title = "Lorem ipsum dolor <br> sit amet con."
 videoURL = "https://www.youtube.com/watch?v=6ZfuNTqbHE8"
