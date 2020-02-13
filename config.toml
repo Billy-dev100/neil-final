@@ -44,7 +44,7 @@ name = "Project"
 parent = "Pages"
 [Languages.en.params.about]
 bgImage = "images/background/about-bg.jpg"
-description = "We are a Highly Acclaimed Specialist Management Consulting Company, Improving Working Capital Processes, One Business at a Time. Our Services Include;"
+description = "We are a Highly Acclaimed Specialist Management Consulting Company, Improving Working Capital Processes, One Business at a Time. Key Achievements Include;"
 enable = true
 title = "Who We Are?"
 [Languages.en.params.about.btn]
@@ -52,7 +52,7 @@ btnText = "Explore More"
 btnURL = "/about/"
 enable = true
 [[Languages.en.params.about.listLeft]]
-listItem = "Diagnostic Review"
+listItem = "43 years experience on behalf of over 1,000 Clients globally."
 [[Languages.en.params.about.listLeft]]
 listItem = "Benchmarking"
 [[Languages.en.params.about.listRight]]
