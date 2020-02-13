@@ -4,6 +4,20 @@ titleSM: Clients
 title: What client Say
 image: images/client.png
 sliderItem:
+- subHeading: ''
+  heading: ''
+  description: ''
+  bgImage: ''
+  dataIcon: ''
+  dataText: ''
+  btn: ''
+  icon: ti-quote-left
+  content: I am positive that Moneypower International’s present and prospective Clients
+    will receive the same cordial intelligent approach to their receivables problems
+    that we have here. Your staff have created and maintained the highest quality
+    service possible.
+  name: Butler Aviation
+  designation: ''
 - subHeading: Burmah Specialty Chemicals
   heading: ''
   description: ''
