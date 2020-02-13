@@ -4,6 +4,19 @@ titleSM: Clients
 title: What client Say
 image: images/client.png
 sliderItem:
+- subHeading: Pickfords International
+  heading: ''
+  description: ''
+  bgImage: ''
+  dataIcon: ''
+  dataText: ''
+  btn: ''
+  icon: ti-quote-left
+  content: I was particularly pleased that no loss of customer goodwill was incurred
+    with the resulting improvement in our cash flow position. Your assistance in recruiting
+    and training suitable staff is also appreciated
+  name: Pickfords International
+  designation: ''
 - subHeading: Olympic Airways
   heading: ''
   description: ''
