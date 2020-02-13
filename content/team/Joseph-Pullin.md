@@ -6,7 +6,7 @@ description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do ei
   exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat irure dolor
   in reprehender.
 designation: CEO
-image: images/team/team-page-44.jpg
+image: images/team-page-44.jpg
 bgImage: images/background/page-title.jpg
 facebookURL: "#"
 twitterURL: "#"
