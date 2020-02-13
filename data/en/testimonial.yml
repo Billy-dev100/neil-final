@@ -4,6 +4,21 @@ titleSM: Clients
 title: What client Say
 image: images/client.png
 sliderItem:
+- subHeading: General Electric Medical
+  heading: ''
+  description: ''
+  bgImage: ''
+  dataIcon: ''
+  dataText: ''
+  btn: ''
+  icon: ti-quote-left
+  content: Your efforts in Benelux, Italy, France and Spain have resulted in major
+    reductions in investment levels and implementation of enhanced analysis routines,
+    which will support your sustained performance improvements. I congratulate Moneypower
+    International on the positive approach to problem solving and dedication to achieving
+    results
+  name: General Electric Medical
+  designation: ''
 - subHeading: Fisons
   heading: ''
   description: ''
