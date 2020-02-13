@@ -4,6 +4,21 @@ titleSM: Clients
 title: What client Say
 image: images/client.png
 sliderItem:
+- subHeading: London Rubber Company
+  heading: ''
+  description: ''
+  bgImage: ''
+  dataIcon: ''
+  dataText: ''
+  btn: ''
+  icon: ti-quote-left
+  content: On completion of Moneypower International’s assignment for us, it would
+    be very remiss of me not to write to express our appreciation for the work carried
+    out here in Stockwell. From the early days right up to the main work, we have
+    been extremely pleased with the results achieved. Our debtor days are now down
+    at their best ever level, representing our best ever performance
+  name: London Rubber Company
+  designation: ''
 - subHeading: Kierulff Electronics
   heading: ''
   description: ''
