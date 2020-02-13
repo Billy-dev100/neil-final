@@ -5,7 +5,7 @@ summaryLength = "10"
 theme = "biztrox-hugo"
 [Language]
 [Languages.en]
-home = ""
+home = "/"
 languageCode = "en-us"
 languageName = ""
 title = "Moneypower International"
