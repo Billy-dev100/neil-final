@@ -1,9 +1,9 @@
 ---
 title: Larger Companies 'Are Ignoring Rules' Overpaying Their Bills
 bgImage: images/background/page-title.jpg
-date: 2018-09-24T05:07:10.000+00:00
+date: 2019-04-30T05:07:10+00:00
 description: This is meta description
-author: John Lincon
+author: Chris Wilkinson
 type: post
 image: images/blog/blog-3.jpg
 categories: []
