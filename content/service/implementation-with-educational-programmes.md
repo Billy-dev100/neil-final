@@ -13,7 +13,7 @@ halfTime: '08.00am - 01.00pm'
 offDay: Friday
 
 ---
-### **Generate improvements detailed in the Diagnostic Review**
+### **Generate improvements detailed in the Diagnostic Review.**
 
 When a Client requires external assistance to generate the improvements detailed in the Moneypower review report, Moneypower assists and spearheads the implementation effort as required by the Client. The implementation effort includes:
 
