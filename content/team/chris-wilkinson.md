@@ -1,34 +1,28 @@
 ---
 title: Chris Wilkinson
 date: 2018-09-29T08:42:31.000+00:00
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua.enim ad minim veniam, quis nostrud
-  exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat irure dolor
-  in reprehender.
+description: An experienced finance and business expert with 20+ years’ experience
+  across banking, FX, asset finance, invoice finance, trade and working capital.
 designation: CEO
 image: images/team-page-45.jpg
 bgImage: images/background/page-title.jpg
-facebookURL: "#"
-twitterURL: "#"
-linkedinURL: "#"
-googlePlusURL: "#"
-projectDone: "32"
-successRate: 96%
+facebookURL: ''
+twitterURL: ''
+linkedinURL: https://www.linkedin.com/in/chriswilkinson2/
+googlePlusURL: ''
+projectDone: More than 100
+successRate: 100%
 experienceOf: 13 Years
-from: San Diago. NY
+from: London, UK
 cvURL: "#"
-mobile: "+88 525 325 22"
-email: philipwilson@biztrox.com
-location: 2/A Southampton, Sandiago, USA.
+mobile: "+44 20 7931 9881"
+email: chris.wilkinson@moneypowerglobal.com
+location: 1 Northumberland Avenue  Trafalgar Square  London, WC2N 5BW  UK.
 Benchmarking: 85%
 consulting: 90%
 Advisory: 75%
 
 ---
-#### Work History  & Feedback
+#### Work History
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis.
-
-#### Profile Analytics
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
+Founded a recruitment company and successfully ran this for three years before selling the business to move back into finance. Previously worked in the financial services industry including roles at Barclays Corporate Banking, HBOS and HFC/HSBC Bank.
