@@ -129,7 +129,7 @@ icon = "ti-linkedin"
 enable = true
 [[Languages.en.params.logoSlider.sliderItem]]
 URL = "#"
-image = "images/client-logo/client-logo-1.png"
+image = "images/client-logo-1.jpg"
 [[Languages.en.params.logoSlider.sliderItem]]
 URL = "#"
 image = "images/client-logo/client-logo-2.png"
