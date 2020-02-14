@@ -13,9 +13,9 @@ halfTime: '08.00am - 01.00pm'
 offDay: Friday
 
 ---
-### **Inspiring Enriched Work Experiences**
+### **Inspiring Enriched Work Experiences.**
 
-##### At Moneypower International, our initial engagement with a Client takes the form of a diagnostic review.
+At moneypower international, our initial engagement with a client takes the form of a diagnostic review.
 
 We deploy a team of Professional and skilled Practitioners to the Client’s site(s). The Practitioners gather information and data through interviews and observations with/of key stakeholders, accumulate procedural documentation, and performance reports and amass extracted data for analysis.
 
