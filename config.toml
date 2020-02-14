@@ -307,7 +307,7 @@ videoURL = "https://www.youtube.com/watch?v=6ZfuNTqbHE8"
 [Languages.en.params.quoteBtn]
 btnText = "get a quote"
 btnURL = "#"
-enable = true
+enable = false
 [[Languages.en.params.sharePost]]
 URL = "#"
 icon = "ti-facebook"
