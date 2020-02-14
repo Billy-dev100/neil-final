@@ -68,53 +68,18 @@ content = "Follow us on social media."
 copyright = "Moneypower International</span> &copy; 2020 All Right Reserved"
 logo = "images/logo-footer1.jpg"
 quickLink = "Quick Link"
+service = []
 services = "Services"
 subscribe = "Contact Us"
 subscribeContent = "Thank you for making Moneypower International your trusted specialised management consulting company. For enquiries or questions about our services, please call or email us today. We look forward to hearing from you."
 [[Languages.en.params.footer.links]]
 URL = "#"
-name = "Legal"
-[[Languages.en.params.footer.links]]
-URL = "#"
 name = "Sitemap"
-[[Languages.en.params.footer.links]]
-URL = "#"
-name = "Privacy Policy"
-[[Languages.en.params.footer.links]]
-URL = "#"
-name = "Terms & Conditions"
 [[Languages.en.params.footer.quickLinks]]
-URL = "#"
-quickLinkItem = "Pricing"
-[[Languages.en.params.footer.quickLinks]]
-URL = "#"
-quickLinkItem = "FAQs"
-[[Languages.en.params.footer.quickLinks]]
-URL = "#"
-quickLinkItem = "Contact Us"
-[[Languages.en.params.footer.quickLinks]]
-URL = "#"
-quickLinkItem = "Service"
-[[Languages.en.params.footer.quickLinks]]
-URL = "#"
-quickLinkItem = "Privacy Policy"
-[[Languages.en.params.footer.service]]
-URL = "#"
-serviceItem = "Company History"
-[[Languages.en.params.footer.service]]
-URL = "#"
-serviceItem = "About Us"
-[[Languages.en.params.footer.service]]
-URL = "#"
-serviceItem = "Contact Us"
-[[Languages.en.params.footer.service]]
-URL = "#"
-serviceItem = "Service"
-[[Languages.en.params.footer.service]]
-URL = "#"
-serviceItem = "Privacy Policy"
+URL = "https://opengovuk.com/company/08340424?fbclid=IwAR1vNGubNG__c_bn_cZKfwHC-rb2E3E-2FKS2GaDXsuIxCMjKJbwiJ-L1sk"
+quickLinkItem = "legal"
 [[Languages.en.params.footer.socialIcon]]
-URL = "#"
+URL = ""
 icon = "ti-facebook"
 [[Languages.en.params.footer.socialIcon]]
 URL = "#"
