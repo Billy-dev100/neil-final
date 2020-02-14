@@ -13,7 +13,7 @@ halfTime: '08.00am - 01.00pm'
 offDay: Friday
 
 ---
-### **A constructive approach to discontinued business**
+### **A Constructive Approach to Discontinued Business.**
 
 In addition to advisory services, Moneypower International offers a specialised business discontinuation service. Many organisations eliminate business lines or offerings over time, and the collection of outstanding receivables in such a situation can prove challenging.
 
