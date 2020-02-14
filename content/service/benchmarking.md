@@ -13,7 +13,7 @@ halfTime: '08.00am - 01.00pm'
 offDay: Friday
 
 ---
-### **An excellent basis for the provision of insightful comparisons**
+### **An Excellent Basis for the Provision of Insightful Comparisons.**
 
 Moneypower International’s working capital Benchmarking Database provides a solid and excellent basis for the provision of insightful comparisons of organisations and industries.
 
