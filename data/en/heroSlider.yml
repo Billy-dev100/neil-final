@@ -40,7 +40,7 @@ sliderItem:
   description: We have nine years of relevant industry experience <br>  in the accounts
     receivable/accounts payable function..
   bgImage: images/banner/banner-4.jpg
-  dataIcon: ''
+  dataIcon: ti-calendar
   dataText: Experience
   btn:
     enable: false
