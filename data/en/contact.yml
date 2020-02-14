@@ -11,5 +11,5 @@ contactList:
   listItem1: 'admin@moneypowerglobal.com '
   listItem2: ''
 - icon: ti-map-alt
-  listItem1: 1 Northumberland Avenue, Trafalgar Square.
-  listItem2: London, WC2N 5BW  UK
+  listItem1: 1 Northumberland Avenue, Trafalgar Square, London, WC2N 5BW  UK.
+  listItem2: ''
