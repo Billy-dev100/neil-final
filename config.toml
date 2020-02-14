@@ -2,7 +2,7 @@ DefaultContentLanguage = "en"
 baseURL = "https://moneypowerinternational.netlify.com/"
 disableLanguages = ["", "Fr", "fr"]
 summaryLength = "10"
-theme = "Airspace Hugo "
+theme = "biztrox-hugo"
 [Language]
 [Languages.en]
 home = "Home"
