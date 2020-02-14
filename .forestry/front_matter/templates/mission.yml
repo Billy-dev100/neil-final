@@ -1,0 +1,32 @@
+---
+label: mission
+hide_body: true
+fields:
+- type: boolean
+  name: enable
+  label: enable
+- type: text
+  name: titleSM
+  label: titleSM
+- type: text
+  name: title
+  label: title
+- type: textarea
+  name: description
+  label: description
+- type: text
+  name: image
+  label: image
+- type: field_group_list
+  name: accordion
+  label: accordion
+  fields:
+  - type: text
+    name: ID
+    label: ID
+  - type: text
+    name: title
+    label: title
+  - type: textarea
+    name: description
+    label: description
