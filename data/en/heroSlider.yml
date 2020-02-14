@@ -43,6 +43,6 @@ sliderItem:
   dataIcon: ti-calendar
   dataText: Experience
   btn:
-    enable: false
+    enable: true
     btnText: More details
     btnURL: "#"
