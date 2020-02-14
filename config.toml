@@ -61,7 +61,7 @@ copyright = "Moneypower International</span> &copy; 2020 All Right Reserved"
 logo = "images/logo-footer1.jpg"
 quickLink = "Quick Link"
 services = "Services"
-subscribe = "Contact Us"
+subscribe = "Subscribe"
 subscribeContent = "Thank you for making Moneypower International your trusted specialised management consulting company. For enquiries or questions about our services, please call or email us today. We look forward to hearing from you."
 [[Languages.en.params.footer.links]]
 URL = "#"
@@ -73,16 +73,13 @@ quickLinkItem = "legal"
 URL = "/service/benchmarking/"
 serviceItem = "benchmarking"
 [[Languages.en.params.footer.socialIcon]]
-URL = ""
+URL = "www.facebook.com"
 icon = "ti-facebook"
 [[Languages.en.params.footer.socialIcon]]
-URL = "#"
+URL = "www.twitter.com"
 icon = "ti-twitter-alt"
 [[Languages.en.params.footer.socialIcon]]
-URL = "#"
-icon = "ti-vimeo-alt"
-[[Languages.en.params.footer.socialIcon]]
-URL = "#"
+URL = "www.linkedin.com"
 icon = "ti-linkedin"
 [Languages.en.params.logoSlider]
 enable = true
