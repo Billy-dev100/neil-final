@@ -458,7 +458,7 @@ icon = "ti-linkedin"
 URL = "#"
 icon = "ti-google"
 [params]
-author = "William"
+author = "Themefisher"
 description = "Airspace Hugo Theme"
 gmapAPI = ""
 googleAnalitycsID = "Your ID"
