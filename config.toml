@@ -282,7 +282,7 @@ icon = "ti-facebook"
 URL = "https://www.twitter.com"
 icon = "ti-twitter-alt"
 [[Languages.en.params.sharePost]]
-URL = "#"
+URL = "https://www.linkedin.com"
 icon = "ti-linkedin"
 [[Languages.en.params.sharePost]]
 URL = "#"
