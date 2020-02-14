@@ -70,7 +70,7 @@ logo = "images/logo-footer1.jpg"
 quickLink = "Quick Link"
 services = "Services"
 subscribe = "Contact Us"
-subscribeContent = "Lorem ipsum dolor sit amet, consect etur adipisicing. elit sed do eiusmod."
+subscribeContent = "Thank you for making Moneypower International your trusted specialised management consulting company. For enquiries or questions about our services, please call or email us today. We look forward to hearing from you."
 [[Languages.en.params.footer.links]]
 URL = "#"
 name = "Legal"
