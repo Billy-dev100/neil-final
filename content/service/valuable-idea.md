@@ -1,34 +1,28 @@
 ---
-title: "Valuable Idea"
-date: 2018-09-29T11:51:17+06:00
-description : "This is meta description"
+title: Diagnostic Review
+date: 2018-09-29T05:51:17.000+00:00
+description: This is meta description
 image: images/service/service-2.jpg
 bgImage: images/background/page-title.jpg
 icon: ti-thought
-brochureURL: '#'
+brochureURL: "#"
 regularDay: Sun-Tues
-regularTime: 08.00am - 06.00pm
+regularTime: '08.00am - 06.00pm'
 halfDay: Thursday
-halfTime: 08.00am - 01.00pm
+halfTime: '08.00am - 01.00pm'
 offDay: Friday
-type : service
+
 ---
+##### At Moneypower International, our initial engagement with a Client takes the form of a diagnostic review. 
 
-### Marketing Oriented To The Targated Customers
+We deploy a team of Professional and skilled Practitioners to the Client’s site(s). The Practitioners gather information and data through interviews and observations with/of key stakeholders, accumulate procedural documentation, and performance reports and amass extracted data for analysis.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The team is onsite for 3 to 4 weeks during the diagnostic review. Our approach minimises distraction and disruption of existing workflow through prudent time management and is flexible and sensitive to the Client's needs. Moneypower, through hard work and planning, believes that our people make us successful. It is that simple. Moneypower embraces diversity, talent and thought. We create an environment that empowers the Client to openly and honestly comment, create and innovate. This is our culture and commitment.
 
+The onsite portion of the diagnostic review is followed with an offsite period of data analysis and benchmarking and the creation of a review report detailing improvement potential and steps critical to the optimisation of working capital. Review reports are typically presented 6 to 8 weeks from kick-off.
 
->Excepteur sint occaecat cupidatat non proident sunt culpa officia deserunt mollit anim id est laborum.Sed ut perspiciatis unde omnis.
+Of importance to most Clients, the review focuses on the people and resources currently engaged in the reviewed processes. The emphasis is on developing new, best practice skills where needed and to provide enriched work experience and performance level.
 
-1. Business Services
-2. Audit & Assurance
-3. IT Control Solutions
+The review report identifies the potential for some or all of the critical improvement steps to be self-implemented by the Client, where possible — in such circumstances identification of qualified personnel is made.
 
-#### Marketing Improvement Strategy
-
-![Chart](../../images/service/service-chart.jpg)
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex.Commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt.
----
-
+![](/images/original.png)
