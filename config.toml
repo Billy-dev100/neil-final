@@ -276,7 +276,7 @@ btnText = "get a quote"
 btnURL = "#"
 enable = false
 [[Languages.en.params.sharePost]]
-URL = "#"
+URL = "https://www.facebook.com"
 icon = "ti-facebook"
 [[Languages.en.params.sharePost]]
 URL = "#"
