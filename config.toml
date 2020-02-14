@@ -1,5 +1,5 @@
 DefaultContentLanguage = "en"
-baseURL = "https://inspiring-lewin-d37455.netlify.com/"
+baseURL = "https://moneypowerinternational.netlify.com/"
 disableLanguages = ["", "Fr", "fr"]
 summaryLength = "10"
 theme = "biztrox-hugo"
