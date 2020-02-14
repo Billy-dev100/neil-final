@@ -27,10 +27,6 @@ URL = "/team"
 name = "Team"
 weight = 6
 [[Languages.en.menu.nav]]
-URL = "/pricing"
-name = "Pricing"
-weight = 7
-[[Languages.en.menu.nav]]
 URL = "/contact"
 name = "Contact"
 weight = 8
@@ -38,10 +34,6 @@ weight = 8
 hasChildren = true
 name = "Pages"
 weight = 9
-[[Languages.en.menu.nav]]
-URL = "/project"
-name = "Project"
-parent = "Pages"
 [Languages.en.params.about]
 bgImage = "images/background/about-bg.jpg"
 description = "We are a Highly Acclaimed Specialist Management Consulting Company, Improving Working Capital Processes, One Business at a Time. Some of our fun facts Include;"
