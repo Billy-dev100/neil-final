@@ -30,7 +30,7 @@ sliderItem:
     Practitioners and analytical support personnel strive continuously to improve
   bgImage: images/banner/banner-3.jpg
   dataIcon: ''
-  dataText: ''
+  dataText: Analytical Support
   btn:
     enable: false
     btnText: More details
