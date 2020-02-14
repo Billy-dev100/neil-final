@@ -78,7 +78,7 @@ name = "Sitemap"
 URL = "https://opengovuk.com/company/08340424?fbclid=IwAR1vNGubNG__c_bn_cZKfwHC-rb2E3E-2FKS2GaDXsuIxCMjKJbwiJ-L1sk"
 quickLinkItem = "legal"
 [[Languages.en.params.footer.service]]
-URL = "/benchmarking/"
+URL = "/service/benchmarking/"
 serviceItem = "benchmarking"
 [[Languages.en.params.footer.socialIcon]]
 URL = ""
