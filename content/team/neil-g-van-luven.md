@@ -20,9 +20,9 @@ cvURL: "#"
 mobile: "+88 525 325 22"
 email: philipwilson@biztrox.com
 location: 2/A Southampton, Sandiago, USA.
-branding: 85%
-consulting: 90%
-business: 75%
+Leadership: 99%
+Mentorship & Advisory: 99%
+Business Experience: 99%
 
 ---
 #### Work History  & Feedback
