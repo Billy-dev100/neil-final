@@ -129,34 +129,175 @@ icon = "ti-linkedin"
 enable = true
 [[Languages.en.params.logoSlider.sliderItem]]
 URL = "#"
+image = "images/client-logo-59.jpg"
+[[Languages.en.params.logoSlider.sliderItem]]
+URL = "#"
+image = "images/client-logo-58.jpg"
+[[Languages.en.params.logoSlider.sliderItem]]
+URL = "#"
+image = "images/client-logo-57.jpg"
+[[Languages.en.params.logoSlider.sliderItem]]
+URL = "#"
+image = "images/client-logo-56.jpg"
+[[Languages.en.params.logoSlider.sliderItem]]
+URL = "#"
+image = "images/client-logo-55.jpg"
+[[Languages.en.params.logoSlider.sliderItem]]
+URL = "#"
+image = "images/client-logo-54.jpg"
+[[Languages.en.params.logoSlider.sliderItem]]
+URL = "#"
+image = "images/client-logo-52.jpg"
+[[Languages.en.params.logoSlider.sliderItem]]
+URL = "#"
+image = "images/client-logo-51.jpg"
+[[Languages.en.params.logoSlider.sliderItem]]
+URL = "#"
+image = "images/client-logo-50.jpg"
+[[Languages.en.params.logoSlider.sliderItem]]
+URL = "#"
+image = "images/client-logo-49.jpg"
+[[Languages.en.params.logoSlider.sliderItem]]
+URL = "#"
+image = "images/client-logo-48.jpg"
+[[Languages.en.params.logoSlider.sliderItem]]
+URL = "#"
+image = "images/client-logo-47.jpg"
+[[Languages.en.params.logoSlider.sliderItem]]
+URL = "#"
+image = "images/client-logo-46.jpg"
+[[Languages.en.params.logoSlider.sliderItem]]
+URL = "#"
+image = "images/client-logo-45.jpg"
+[[Languages.en.params.logoSlider.sliderItem]]
+URL = "#"
+image = "images/client-logo-44.jpg"
+[[Languages.en.params.logoSlider.sliderItem]]
+URL = "#"
+image = "images/client-logo-43.jpg"
+[[Languages.en.params.logoSlider.sliderItem]]
+URL = "#"
+image = "images/client-logo-42.jpg"
+[[Languages.en.params.logoSlider.sliderItem]]
+URL = "#"
+image = "images/client-logo-40.jpg"
+[[Languages.en.params.logoSlider.sliderItem]]
+URL = "#"
+image = "images/client-logo-39.jpg"
+[[Languages.en.params.logoSlider.sliderItem]]
+URL = "#"
+image = "images/client-logo-38.jpg"
+[[Languages.en.params.logoSlider.sliderItem]]
+URL = "#"
+image = "images/client-logo-37.jpg"
+[[Languages.en.params.logoSlider.sliderItem]]
+URL = "#"
+image = "images/client-logo-36.jpg"
+[[Languages.en.params.logoSlider.sliderItem]]
+URL = "#"
+image = "images/client-logo-35.jpg"
+[[Languages.en.params.logoSlider.sliderItem]]
+URL = "#"
+image = "images/client-logo-34.jpg"
+[[Languages.en.params.logoSlider.sliderItem]]
+URL = "#"
+image = "images/client-logo-33.jpg"
+[[Languages.en.params.logoSlider.sliderItem]]
+URL = "#"
+image = "images/client-logo-32.jpg"
+[[Languages.en.params.logoSlider.sliderItem]]
+URL = "#"
+image = "images/client-logo-31.jpg"
+[[Languages.en.params.logoSlider.sliderItem]]
+URL = "#"
+image = "images/client-logo-30.jpg"
+[[Languages.en.params.logoSlider.sliderItem]]
+URL = "#"
+image = "images/client-logo-29.jpg"
+[[Languages.en.params.logoSlider.sliderItem]]
+URL = "#"
+image = "images/client-logo-28.jpg"
+[[Languages.en.params.logoSlider.sliderItem]]
+URL = "#"
+image = "images/client-logo-27.jpg"
+[[Languages.en.params.logoSlider.sliderItem]]
+URL = "#"
+image = "images/client-logo-26.jpg"
+[[Languages.en.params.logoSlider.sliderItem]]
+URL = "#"
+image = "images/client-logo-25.jpg"
+[[Languages.en.params.logoSlider.sliderItem]]
+URL = "#"
+image = "images/client-logo-24.jpg"
+[[Languages.en.params.logoSlider.sliderItem]]
+URL = "#"
+image = "images/client-logo-23.jpg"
+[[Languages.en.params.logoSlider.sliderItem]]
+URL = "#"
+image = "images/client-logo-22.jpg"
+[[Languages.en.params.logoSlider.sliderItem]]
+URL = "#"
+image = "images/client-logo-21.jpg"
+[[Languages.en.params.logoSlider.sliderItem]]
+URL = "#"
+image = "images/client-logo-20.jpg"
+[[Languages.en.params.logoSlider.sliderItem]]
+URL = "#"
+image = "images/client-logo-19.jpg"
+[[Languages.en.params.logoSlider.sliderItem]]
+URL = "#"
+image = "images/client-logo-18.jpg"
+[[Languages.en.params.logoSlider.sliderItem]]
+URL = "#"
+image = "images/client-logo-17.jpg"
+[[Languages.en.params.logoSlider.sliderItem]]
+URL = "#"
+image = "images/client-logo-16.jpg"
+[[Languages.en.params.logoSlider.sliderItem]]
+URL = "#"
+image = "images/client-logo-15.jpg"
+[[Languages.en.params.logoSlider.sliderItem]]
+URL = "#"
+image = "images/client-logo-14.jpg"
+[[Languages.en.params.logoSlider.sliderItem]]
+URL = "#"
+image = "images/client-logo-13.jpg"
+[[Languages.en.params.logoSlider.sliderItem]]
+URL = "#"
+image = "images/client-logo-12.jpg"
+[[Languages.en.params.logoSlider.sliderItem]]
+URL = "#"
+image = "images/client-logo-11.jpg"
+[[Languages.en.params.logoSlider.sliderItem]]
+URL = "#"
+image = "images/client-logo-10.jpg"
+[[Languages.en.params.logoSlider.sliderItem]]
+URL = "#"
+image = "images/client-logo-9.jpg"
+[[Languages.en.params.logoSlider.sliderItem]]
+URL = "#"
+image = "images/client-logo-8.jpg"
+[[Languages.en.params.logoSlider.sliderItem]]
+URL = "#"
+image = "images/client-logo-7.jpg"
+[[Languages.en.params.logoSlider.sliderItem]]
+URL = "#"
+image = "images/client-logo-6.jpg"
+[[Languages.en.params.logoSlider.sliderItem]]
+URL = "#"
+image = "images/client-logo-5.jpg"
+[[Languages.en.params.logoSlider.sliderItem]]
+URL = "#"
+image = "images/client-logo-4.jpg"
+[[Languages.en.params.logoSlider.sliderItem]]
+URL = "#"
+image = "images/client-logo-3.jpg"
+[[Languages.en.params.logoSlider.sliderItem]]
+URL = "#"
+image = "images/client-logo-2.jpg"
+[[Languages.en.params.logoSlider.sliderItem]]
+URL = "#"
 image = "images/client-logo-1.jpg"
-[[Languages.en.params.logoSlider.sliderItem]]
-URL = "#"
-image = "images/client-logo/client-logo-2.png"
-[[Languages.en.params.logoSlider.sliderItem]]
-URL = "#"
-image = "images/client-logo/client-logo-3.png"
-[[Languages.en.params.logoSlider.sliderItem]]
-URL = "#"
-image = "images/client-logo/client-logo-4.png"
-[[Languages.en.params.logoSlider.sliderItem]]
-URL = "#"
-image = "images/client-logo/client-logo-5.png"
-[[Languages.en.params.logoSlider.sliderItem]]
-URL = "#"
-image = "images/client-logo/client-logo-1.png"
-[[Languages.en.params.logoSlider.sliderItem]]
-URL = "#"
-image = "images/client-logo/client-logo-2.png"
-[[Languages.en.params.logoSlider.sliderItem]]
-URL = "#"
-image = "images/client-logo/client-logo-3.png"
-[[Languages.en.params.logoSlider.sliderItem]]
-URL = "#"
-image = "images/client-logo/client-logo-4.png"
-[[Languages.en.params.logoSlider.sliderItem]]
-URL = "#"
-image = "images/client-logo/client-logo-5.png"
 [Languages.en.params.promoVideo]
 bgImage = "images/background/promo-video.jpg"
 enable = false
