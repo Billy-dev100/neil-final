@@ -29,10 +29,10 @@ sliderItem:
     circumstances are extremely difficult to accomplish. <br> Moneypower International’s
     Practitioners and analytical support personnel strive continuously to improve
   bgImage: images/banner/banner-3.jpg
-  dataIcon: ''
+  dataIcon: ti-layout-accordion-list
   dataText: Analytical Support
   btn:
-    enable: false
+    enable: true
     btnText: More details
     btnURL: "#"
 - subHeading: We are always "hands on"
