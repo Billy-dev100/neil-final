@@ -17,10 +17,10 @@ sliderItem:
   description: Moneypower International deals with methodologies, analytics, and risk
     <br> to generate cash and enhance the reputation of the Client.
   bgImage: images/banner/banner-2.jpg
-  dataIcon: ''
+  dataIcon: ti-clipboard
   dataText: Advisory
   btn:
-    enable: false
+    enable: true
     btnText: More details
     btnURL: "#"
 - subHeading: Increase your cash generation
