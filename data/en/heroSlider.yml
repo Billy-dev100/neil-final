@@ -9,7 +9,7 @@ sliderItem:
   dataIcon: ti-bar-chart
   dataText: Consultancy
   btn:
-    enable: false
+    enable: true
     btnText: More details
     btnURL: "#"
 - subHeading: Do you aspire to Improve your working capital processes?
