@@ -3,7 +3,7 @@ title: Chris Wilkinson
 date: 2018-09-29T08:42:31.000+00:00
 description: An experienced finance and business expert with 20+ years’ experience
   across banking, FX, asset finance, invoice finance, trade and working capital.
-designation: CEO
+designation: Director & Senior ​Consultant
 image: images/team-page-45.jpg
 bgImage: images/background/page-title.jpg
 facebookURL: ''
