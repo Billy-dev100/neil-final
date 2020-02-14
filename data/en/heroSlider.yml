@@ -6,10 +6,10 @@ sliderItem:
   description: Moneypower provides specialist management consulting  <br> for the
     entire accounts receivable and accounts payable process life-cycles.
   bgImage: images/banner/banner-1.jpg
-  dataIcon: ti-comments
-  dataText: Consultation
+  dataIcon: ''
+  dataText: ''
   btn:
-    enable: true
+    enable: false
     btnText: More details
     btnURL: "#"
 - subHeading: Do you aspire to Improve your working capital processes?
@@ -17,10 +17,10 @@ sliderItem:
   description: Moneypower International deals with methodologies, analytics, and risk
     <br> to generate cash and enhance the reputation of the Client.
   bgImage: images/banner/banner-2.jpg
-  dataIcon: ti-bar-chart
-  dataText: Benchmarking
+  dataIcon: ''
+  dataText: ''
   btn:
-    enable: true
+    enable: false
     btnText: More details
     btnURL: "#"
 - subHeading: Increase your cash generation
@@ -29,10 +29,10 @@ sliderItem:
     circumstances are extremely difficult to accomplish. <br> Moneypower International’s
     Practitioners and analytical support personnel strive continuously to improve
   bgImage: images/banner/banner-3.jpg
-  dataIcon: ti-money
-  dataText: Diagnostic Review
+  dataIcon: ''
+  dataText: ''
   btn:
-    enable: true
+    enable: false
     btnText: More details
     btnURL: "#"
 - subHeading: We are always "hands on"
@@ -40,9 +40,9 @@ sliderItem:
   description: We have nine years of relevant industry experience <br>  in the accounts
     receivable/accounts payable function..
   bgImage: images/banner/banner-4.jpg
-  dataIcon: ti-package
-  dataText: Human Resources
+  dataIcon: ''
+  dataText: ''
   btn:
-    enable: true
+    enable: false
     btnText: More details
     btnURL: "#"
