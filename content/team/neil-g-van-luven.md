@@ -10,10 +10,10 @@ designation: Founder, Chairman & CEO    On behalf of all of Moneypower’s Pract
   and Clients.  Thank You.    Neil G. Van Luven
 image: images/team-page-44.jpg
 bgImage: images/background/page-title.jpg
-facebookURL: "#"
-twitterURL: "#"
-linkedinURL: "#"
-googlePlusURL: "#"
+facebookURL: https://www.facebook.com/neilgerald.vanluven.3
+twitterURL: https://twitter.com/ngvl10?lang=en
+linkedinURL: https://www.linkedin.com/in/neil-g-van-luven-30707546/
+googlePlusURL: ''
 projectDone: more than 500
 successRate: 100%
 experienceOf: 40 Years
