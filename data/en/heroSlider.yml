@@ -41,7 +41,7 @@ sliderItem:
     receivable/accounts payable function..
   bgImage: images/banner/banner-4.jpg
   dataIcon: ''
-  dataText: ''
+  dataText: Experience
   btn:
     enable: false
     btnText: More details
