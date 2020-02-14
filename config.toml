@@ -279,7 +279,7 @@ enable = false
 URL = "https://www.facebook.com"
 icon = "ti-facebook"
 [[Languages.en.params.sharePost]]
-URL = "#"
+URL = "https://www.twitter.com"
 icon = "ti-twitter-alt"
 [[Languages.en.params.sharePost]]
 URL = "#"
