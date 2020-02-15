@@ -29,9 +29,9 @@ sliderItem:
     btnURL: "#"
 - subHeading: Increase your cash generation
   heading: Continuous Improvement
-  description: Many of our Clients perceive that performance improvements in challenging
+  description: Many of our Clients perceive that performance improvements in<br> challenging
     circumstances are extremely difficult to accomplish. <br> Moneypower International’s
-    Practitioners and analytical support personnel strive continuously to improve
+    Practitioners and analytical support<br> personnel strive continuously to improve
   bgImage: images/banner-3.jpg
   dataIcon: ti-layout-accordion-list
   dataText: Analytical Support
