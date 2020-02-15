@@ -39,7 +39,7 @@ sliderItem:
   heading: Be Inspired By the Best.
   description: We have nine years of relevant industry experience <br>  in the accounts
     receivable/accounts payable function..
-  bgImage: images/banner/banner-4.jpg
+  bgImage: images/banner-4.jpg
   dataIcon: ti-calendar
   dataText: Experience
   btn:
