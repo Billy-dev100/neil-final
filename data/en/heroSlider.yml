@@ -28,7 +28,7 @@ sliderItem:
   description: Many of our Clients perceive that performance improvements in challenging
     circumstances are extremely difficult to accomplish. <br> Moneypower International’s
     Practitioners and analytical support personnel strive continuously to improve
-  bgImage: images/banner/banner-3.jpg
+  bgImage: images/banner-3.jpg
   dataIcon: ti-layout-accordion-list
   dataText: Analytical Support
   btn:
