@@ -5,7 +5,7 @@
     <div class="hero-slider position-relative">
         {{ "<!-- slider item -->" | safeHTML }}
         {{ range $data.heroSlider.sliderItem }}
-        <div class="hero-slider-item py-160" style="background-image: url('{{ .bgImage | absURL }}')" background-size:"cover" data-icon="{{ .dataIcon }}"
+        <div class="hero-slider-item py-160" style="background-image: url('{{ .bgImage | absURL }}')" background-size:cover; data-icon="{{ .dataIcon }}"
             data-text="{{ .dataText }}">
             <div class="container">
                 <div class="row row-no-gutters">
