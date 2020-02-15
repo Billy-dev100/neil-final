@@ -5,7 +5,7 @@ sliderItem:
   heading: Consult with Us
   description: Moneypower provides specialist management consulting  <br> for the
     entire accounts receivable and accounts payable process life-cycles.
-  bgImage: "/themes/biztrox-hugo/examplesite/static/images/banner/banner-1.jpg"
+  bgImage: images/banner-1.jpg
   dataIcon: ti-bar-chart
   dataText: Consultancy
   btn:
