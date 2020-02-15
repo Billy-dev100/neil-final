@@ -1,10 +1,14 @@
 ---
 enable: true
 sliderItem:
-- subHeading: Problems with payables & receivables?
-  heading: Consult with Us
+- subHeading: Improving Working Capital Processes, One Business at a Time
+  heading: "“Believe in one who has had experience (experto credite)” – Virgil"
   description: Moneypower provides specialist management consulting  <br> for the
-    entire accounts receivable and accounts payable process life-cycles.
+    entire accounts receivable and accounts payable process life-cycles. Moneypower
+    International’s typical Practitioner profile includes a strong background in finance,
+    accounting, marketing, banking, and operational management. They are assertive
+    but diplomatic, organised, and flexible and they focus on leaving our Client in
+    the strongest cash generation position possible.
   bgImage: images/banner-1.jpg
   dataIcon: ti-bar-chart
   dataText: Consultancy
