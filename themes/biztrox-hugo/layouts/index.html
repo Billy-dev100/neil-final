@@ -1,8 +1,6 @@
 {{ define "main" }}
 
 {{ partial "hero-slider.html" . }}
-{{ partial "about.html" . }}
-
 {{ "<!-- service -->" | safeHTML }}
 <section class="section">
     <div class="container">
@@ -33,17 +31,12 @@
     </div>
 </section>
 {{ "<!-- /service -->" | safeHTML }}
-
+{{ partial "about.html" . }}
 {{ partial "skill.html" . }}
-
 {{ partial "mission.html" . }}
-
 {{ partial "promoVideo.html" . }}
-
 {{ partial "testimonial.html" . }}
-
 {{ partial "clientsLogoSlider.html" . }}
-
 {{ partial "cta.html" . }}
 
 {{ "<!-- blog -->" | safeHTML }}
@@ -54,7 +47,6 @@
                 <h5 class="section-title-sm">Latest News</h5>
                 <h2 class="section-title section-title-border-gray">Blogs</h2>
             </div>
-            
             {{ range $index, $element:= where .Data.Pages "Type" "post" }}
             {{ if lt $index 3}}
             {{ "<!-- blog-item -->" | safeHTML }}
