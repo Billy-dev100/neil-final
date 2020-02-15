@@ -3,18 +3,15 @@ philosophy:
   enable: true
   titleSM: Know About
   title: Our Company
-  content: |-
-    Moneypower International is a boutique consultancy specialising and helping Clients increase their cash generation by focusing on working capital reduction. We have done this successfully over more than four decades in every conceivable industry in virtually all jurisdictions where transparency in financial reporting (the equivalent of GAAP) exists.
-
-    Many of our Clients perceive that performance improvements in challenging circumstances are extremely difficult to accomplish. Moneypower International demonstrates that progress can be achieved rapidly and permanently and in the process has helped over 1,000 Clients generate in excess of $55 billion on a permanent and sustainable basis.
-
-    <br> Moneypower International’s Practitioners and analytical support personnel strive continuously to improve. They aspire for greater performance improvements for all Clients respecting Clients’ staff members’ inputs, ideas, and opinions.
-
-    Moneypower International’s typical Practitioner profile includes a strong background in finance, accounting, marketing, banking, and operational management.  They are assertive but diplomatic, organised, and flexible and they focus on leaving our Client in the strongest cash generation position possible.
-
-
-    Their role is one of mentor and collaborator — they ensure that Client staff members become “bought-in” participants in the
-    improvement process.
+  content: "Moneypower International is a boutique consultancy specialising and helping
+    Clients increase their cash generation by focusing on working capital reduction.
+    We have done this successfully over more than four decades in every conceivable
+    industry in virtually all jurisdictions where transparency in financial reporting
+    (the equivalent of GAAP) exists.\n<br> \nMany of our Clients perceive that performance
+    improvements in challenging circumstances are extremely difficult to accomplish.
+    Moneypower International demonstrates that progress can be achieved rapidly and
+    permanently and in the process has helped over 1,000 Clients generate in excess
+    of $55 billion on a permanent and sustainable basis."
   image: images/about/philosophy.jpg
   btn:
     enable: true
