@@ -30,4 +30,13 @@
     </div>
 </section>
 {{ "<!-- /about -->" | safeHTML }}
+
+<button onclick="goBack()">Go to Home</button>
+
+<script>
+function goBack() {
+  window.history.back();
+}
+</script>
+
 {{ end }}
