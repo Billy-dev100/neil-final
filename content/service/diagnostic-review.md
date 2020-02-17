@@ -27,4 +27,4 @@ Of importance to most Clients, the review focuses on the people and resources cu
 
 The review report identifies the potential for some or all of the critical improvement steps to be self-implemented by the Client, where possible — in such circumstances identification of qualified personnel is made.
 
-![](/images/original.png)
+![](/images/original.jpg)
