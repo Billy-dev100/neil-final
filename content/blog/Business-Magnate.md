@@ -1,7 +1,7 @@
 ---
-title: Larger Companies 'Are Ignoring Rules' Overpaying Their Bills
+title: Larger Companies 'Are Ignoring Rules' Over Paying Their Bills
 bgImage: images/background/page-title.jpg
-date: 2019-04-30T05:07:10+00:00
+date: 2019-04-30T05:07:10.000+00:00
 description: This is meta description
 author: Chris Wilkinson
 type: post
