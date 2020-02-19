@@ -6,11 +6,11 @@ image: images/service/service-4.jpg
 bgImage: images/background/page-title.jpg
 icon: ti-bar-chart
 brochureURL: "#"
-regularDay: Sun-Tues
+regularDay: Monday-Friday
 regularTime: '08.00am - 06.00pm'
-halfDay: Thursday
+halfDay: ''
 halfTime: '08.00am - 01.00pm'
-offDay: Friday
+offDay: Saturday-Sunday
 
 ---
 ### **Generate Improvements Detailed in the Diagnostic Review.**
