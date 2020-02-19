@@ -1,4 +1,18 @@
 ---
 label: new1
 hide_body: false
-fields: []
+fields:
+- name: edit
+  type: text
+  config:
+    required: false
+  label: edit
+- name: heading
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: heading
