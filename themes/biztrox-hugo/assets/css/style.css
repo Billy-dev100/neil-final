@@ -523,8 +523,6 @@ button {
   text-align: center;
   display: inline-block;
 }
-}
-
 /* our team */
 .page-title {
   background-position: center center;
@@ -532,7 +530,6 @@ button {
   background-size: cover;
   padding: 160px 0 100px;
 }
-
 /* team social icon */
 .social-icon-lg {
   height: 50px;
