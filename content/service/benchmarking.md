@@ -6,11 +6,11 @@ image: images/service/service-5.jpg
 bgImage: images/background/page-title.jpg
 icon: ti-server
 brochureURL: "#"
-regularDay: Sun-Tues
+regularDay: Monday-Friday
 regularTime: '08.00am - 06.00pm'
-halfDay: Thursday
-halfTime: '08.00am - 01.00pm'
-offDay: Friday
+halfDay: ''
+halfTime: ''
+offDay: Saturday-Sunday
 
 ---
 ### **An Excellent Basis for the Provision of Insightful Comparisons.**
