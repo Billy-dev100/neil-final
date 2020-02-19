@@ -6,11 +6,11 @@ image: images/service/service-2.jpg
 bgImage: images/background/page-title.jpg
 icon: ti-thought
 brochureURL: "#"
-regularDay: Sun-Tues
+regularDay: Monday-Friday
 regularTime: '08.00am - 06.00pm'
-halfDay: Thursday
+halfDay: ''
 halfTime: '08.00am - 01.00pm'
-offDay: Friday
+offDay: Saturday-Sunday
 
 ---
 ### **Inspiring Enriched Work Experiences.**
