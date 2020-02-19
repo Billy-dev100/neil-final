@@ -45,3 +45,5 @@ fields:
   showOnly:
     field: enable
     value: true
+pages:
+- data/en/team.yml
