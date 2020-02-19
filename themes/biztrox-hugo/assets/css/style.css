@@ -523,6 +523,15 @@ button {
   text-align: center;
   display: inline-block;
 }
+}
+
+/* 1.2.2 page title */
+.page-title {
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 160px 0 100px;
+}
 
 /* team social icon */
 .social-icon-lg {
