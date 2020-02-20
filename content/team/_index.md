@@ -5,6 +5,3 @@ bgImage: images/background/page-title.jpg
 description: This is meta description
 
 ---
-#### Work History  & Feedback
-
-Some of the Clients Neil procured and developed during his career include GE Medical; Dell; Unisys; Getronics; GlaxoSmithKline; Nabisco; IBM; and Chemical Bank.
