@@ -1,2 +1,32 @@
-title : Our Awesome Team
-content : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod <br> tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.
+---
+title: Our Leadership Team
+content: "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.</p>"
+enable: false
+bgImage: ''
+titleSM: ''
+clientsLogoLeft: []
+clientsLogoRight: []
+title2: ''
+heading: ''
+edit: ''
+date: ''
+description: ''
+designation: ''
+image: ''
+facebookURL: ''
+twitterURL: ''
+linkedinURL: ''
+googlePlusURL: ''
+projectDone: 
+successRate: ''
+experienceOf: ''
+from: ''
+cvURL: ''
+mobile: ''
+email: ''
+location: ''
+branding: ''
+consulting: ''
+business: ''
+type: ''
