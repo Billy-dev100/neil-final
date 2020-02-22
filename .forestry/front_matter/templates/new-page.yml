@@ -20,4 +20,5 @@ fields:
       path: 
   label: select
 pages:
+- content/leadership-team.html
 - data/en/team.yml
