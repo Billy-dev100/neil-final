@@ -25,8 +25,7 @@ content: <p>{{&lt; grid "3 center mb-2 mt-2" &gt;}} {{&lt; column "column_bg" &g
   top Platforms globally including eBay, Amazon, 1stdibs, Vestiaire Collective, Rebelle,
   HEWI and others. In the last year, Pauline developed her interest in green sustainable
   energies and Spread-Betting, working closely with Neil.</p><p>{{&lt; /column &gt;}}</p><p>{{&lt;
-  column "column_bg" &gt;}} {{&lt; avatar "/images/damienperez.png" "a passport photo
-  of Damien Perez" &gt;}}</p>
+  /grid &gt;}}</p>
 enable: false
 bgImage: ''
 titleSM: ''
