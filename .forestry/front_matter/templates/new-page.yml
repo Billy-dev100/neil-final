@@ -24,7 +24,7 @@ fields:
     options: []
     source:
       type: documents
-      section: 
-      file: 
+      section: data-satisfied-client
+      file: data/en/satisfiedClients.yml
       path: 
   label: select
