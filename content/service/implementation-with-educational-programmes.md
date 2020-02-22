@@ -1,6 +1,6 @@
 ---
 title: Implementation With educational Programmes
-date: 2018-09-25T09:51:35.000+00:00
+date: 
 description: This is meta description
 image: images/service/service-4.jpg
 bgImage: images/background/page-title.jpg
