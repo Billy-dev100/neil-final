@@ -16,3 +16,15 @@ fields:
     schema:
       format: markdown
   label: text
+- name: team
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: team
