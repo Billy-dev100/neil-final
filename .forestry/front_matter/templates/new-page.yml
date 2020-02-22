@@ -1,4 +1,14 @@
 ---
 label: new page
 hide_body: true
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: title
+- name: featured_image
+  type: text
+  config:
+    required: false
+  label: featured Image
