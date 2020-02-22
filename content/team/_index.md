@@ -35,4 +35,3 @@ Business Experience: 99%
 #### Work History  & Feedback
 
 Some of the Clients Neil procured and developed during his career include GE Medical; Dell; Unisys; Getronics; GlaxoSmithKline; Nabisco; IBM; and Chemical Bank.
----
