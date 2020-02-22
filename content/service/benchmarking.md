@@ -1,7 +1,7 @@
 ---
 title: Diagnostic Review
-date: 2018-09-29T05:54:02.000+00:00
-description: This is meta description
+date: 2018-09-29T05:05:00+00:00
+description: ''
 image: images/service/service-5.jpg
 bgImage: images/background/page-title.jpg
 icon: ti-server
