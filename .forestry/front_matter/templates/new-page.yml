@@ -19,3 +19,5 @@ fields:
       file: data/en/satisfiedClients.yml
       path: 
   label: select
+pages:
+- data/en/team.yml
