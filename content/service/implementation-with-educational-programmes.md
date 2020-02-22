@@ -9,7 +9,7 @@ brochureURL: "#"
 regularDay: Monday-Friday
 regularTime: '08.00am - 06.00pm'
 halfDay: ''
-halfTime: '08.00am - 01.00pm'
+halfTime: ''
 offDay: Saturday-Sunday
 
 ---
