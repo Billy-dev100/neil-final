@@ -1,6 +1,6 @@
 ---
 title: Diagnostic Review
-date: 2018-09-29T05:05:00+00:00
+date: 
 description: ''
 image: images/service/service-5.jpg
 bgImage: images/background/page-title.jpg
