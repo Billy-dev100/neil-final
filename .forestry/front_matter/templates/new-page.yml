@@ -23,8 +23,8 @@ fields:
     required: false
     options: []
     source:
-      type: simple
+      type: documents
       section: 
       file: 
       path: 
-  label: team
+  label: select
