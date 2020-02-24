@@ -1,5 +1,5 @@
 ---
-title: Neil G Van Luven
+title: Leadership Team
 date: 
 bgImage: "/images/background/page-title.jpg"
 description: |-
