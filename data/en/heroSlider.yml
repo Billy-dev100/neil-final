@@ -26,7 +26,7 @@ sliderItem:
   btn:
     enable: true
     btnText: More details
-    btnURL: "#"
+    btnURL: "/service/"
 - subHeading: Increase your cash generation
   heading: Continuous Improvement
   description: Many of our Clients perceive that performance improvements in challenging<br>
