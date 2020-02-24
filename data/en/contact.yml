@@ -1,7 +1,7 @@
 ---
 enable: true
 title: Contact Us
-formTitle: Enquire More About Our Range Services
+formTitle: Get in touch with us
 btnText: Submit Now
 contactList:
 - icon: ti-mobile
