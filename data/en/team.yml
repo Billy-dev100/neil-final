@@ -1,5 +1,5 @@
 ---
-title: Our Leadership Team
+title: Neil G Van Luven
 content: "<p></p>"
 enable: false
 bgImage: ''
@@ -9,7 +9,7 @@ clientsLogoRight: []
 title2: ''
 heading: ''
 edit: ''
-date: ''
+date: 
 description: ''
 designation: ''
 image: ''
@@ -17,7 +17,7 @@ facebookURL: ''
 twitterURL: ''
 linkedinURL: ''
 googlePlusURL: ''
-projectDone: 
+projectDone: ''
 successRate: ''
 experienceOf: ''
 from: ''
@@ -30,3 +30,6 @@ consulting: ''
 business: ''
 type: ''
 team: ''
+Leadership: ''
+Mentorship & Advisory: ''
+Business Experience: ''
