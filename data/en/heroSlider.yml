@@ -40,7 +40,7 @@ sliderItem:
   btn:
     enable: true
     btnText: More details
-    btnURL: "#"
+    btnURL: "/service/"
 - subHeading: We are always "hands on" in providing financial consulting services
     helping businesses to generate sustainable working capital from accounts receivable
     and accounts payable, including balance sheet optimisation
