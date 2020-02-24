@@ -2,7 +2,7 @@
 title: Leadership Team
 date: 
 bgImage: "/images/background/page-title.jpg"
----
+
 ## Team
 
 {{< grid "3 center mb-2 mt-2" >}} {{< column "column_bg" >}} {{< avatar "/images/neil-g-van-luven.jpg" "a passport photo of Neil G Van Luven" >}}
@@ -152,3 +152,5 @@ Paresh built positive relationships with key external partners, from sourcing to
 {{< /column >}}
 
 {{< /grid >}}
+
+---
