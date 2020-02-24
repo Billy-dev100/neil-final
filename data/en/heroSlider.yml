@@ -15,7 +15,7 @@ sliderItem:
   btn:
     enable: true
     btnText: More details
-    btnURL: "#"
+    btnURL: "/service/"
 - subHeading: Do you aspire to Improve your working capital processes?
   heading: Join over 1000 Clients Enjoying Permanent and Continuous Cash Generation
   description: Moneypower International deals with methodologies, analytics, and risk
