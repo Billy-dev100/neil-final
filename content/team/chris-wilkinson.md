@@ -14,7 +14,7 @@ projectDone: More than 100
 successRate: 100%
 experienceOf: 13 Years
 from: London, UK
-cvURL: "#"
+cvURL: https://www.londonprofessionals.co.uk/profile/chris-wilkinson
 mobile: "+44 20 7931 9881"
 email: chris.wilkinson@moneypowerglobal.com
 location: 1 Northumberland Avenue  Trafalgar Square  London, WC2N 5BW  UK.
