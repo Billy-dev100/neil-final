@@ -1,0 +1,67 @@
+---
+label: teamA
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: textarea
+  name: description
+  label: description
+- type: text
+  name: designation
+  label: designation
+- type: file
+  name: image
+  label: image
+- type: file
+  name: bgImage
+  label: bgImage
+- type: text
+  name: facebookURL
+  label: facebookURL
+- type: text
+  name: twitterURL
+  label: twitterURL
+- type: text
+  name: linkedinURL
+  label: linkedinURL
+- type: text
+  name: googlePlusURL
+  label: googlePlusURL
+- type: text
+  name: projectDone
+  label: projectDone
+- type: text
+  name: successRate
+  label: successRate
+- type: text
+  name: experienceOf
+  label: experienceOf
+- type: text
+  name: from
+  label: from
+- type: text
+  name: cvURL
+  label: cvURL
+- type: text
+  name: mobile
+  label: mobile
+- type: text
+  name: email
+  label: email
+- type: text
+  name: location
+  label: location
+- type: text
+  name: Leadership
+  label: Leadership
+- type: text
+  name: Mentorship & Advisory
+  label: Mentorship & Advisory
+- type: text
+  name: Business Experience
+  label: Business Experience
