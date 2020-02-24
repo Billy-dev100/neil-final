@@ -8,7 +8,7 @@ description: Neil is a visionary executive with special expertise in all aspects
   – a Company He Founded in 1975. Particular skills developed during this period included
   driving transformational and cultural change in multiple challenging jurisdictions.
 designation: Founder, Chairman & CEO
-image: ''
+image: "/images/team-page-44.jpg"
 facebookURL: ''
 twitterURL: ''
 linkedinURL: ''
