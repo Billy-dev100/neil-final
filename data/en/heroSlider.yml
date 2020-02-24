@@ -57,4 +57,4 @@ sliderItem:
   btn:
     enable: true
     btnText: More details
-    btnURL: "#"
+    btnURL: "/service/"
