@@ -1,5 +1,5 @@
 ---
-title: Benchmarking
+title: Diagnostic Review
 date: 
 description: This is meta description
 image: images/service/service-2.jpg
