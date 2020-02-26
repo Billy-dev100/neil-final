@@ -1,14 +1,24 @@
 <head>
     <meta charset="utf-8">
     <title>{{ .Site.Title }}</title>
+        
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-159124044-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
 
+      gtag('config', 'UA-159124044-1');
+    </script>
+    
     {{ "<!-- mobile responsive meta -->" | safeHTML }}
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}">
     {{ with .Site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
     {{ hugo.Generator }}
-
+    
     {{ "<!-- Bootstrap -->" | safeHTML }}
     <link rel="stylesheet" href="{{ "plugins/bootstrap/bootstrap.min.css" | absURL }} ">
     {{ "<!-- magnific popup -->" | safeHTML }}
