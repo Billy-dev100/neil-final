@@ -1,5 +1,5 @@
 DefaultContentLanguage = "en"
-baseURL = "moneypowerglobal.netlify.com"
+baseURL = "www.moneypowerglobal.netlify.com"
 disableLanguages = ["", "Fr", "fr"]
 summaryLength = "10"
 theme = "biztrox-hugo"
