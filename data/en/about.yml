@@ -15,8 +15,8 @@ philosophy:
 ceo:
   enable: true
   bgImage: images/ceo.png
-  title: In a span of more than 40 years, Neil has practised and honed  <br> his financial
-    skills in the field of Working Capital Improvement & <br> Balance Sheet Optimization
+  title: In a span of more than 40 years, Neil has practised and honed his financial
+    skills in the field of Working <br> Capital Improvement & Balance Sheet Optimization
   content: |-
     We select our team based on the circumstances of the Client and their mission-critical needs.
 
