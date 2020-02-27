@@ -74,12 +74,12 @@ serviceItem = "Implementation & Education Programmes"
 URL = "/service/business-discontinuation-services/"
 serviceItem = "Business Discontinuation Services"
 [[Languages.en.params.footer.service]]
-URL = "/service/diagnostic-review/"
-serviceItem = "Diagnostic Review"
-[[Languages.en.params.footer.service]]
 URL = "/service/benchmarking/"
 serviceItem = "benchmarking"
 [[Languages.en.params.footer.socialIcon]]
+URL = "/service/diagnostic-review/"
+serviceItem = "Diagnostic Review"
+[[Languages.en.params.footer.service]]
 URL = "https://www.facebook.com"
 icon = "ti-facebook"
 [[Languages.en.params.footer.socialIcon]]
