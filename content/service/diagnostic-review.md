@@ -1,5 +1,5 @@
 ---
-title: Benchmarking
+title: Diagnostic Review
 date: 
 description: ''
 image: images/service/service-5.jpg
@@ -13,12 +13,18 @@ halfTime: ''
 offDay: Saturday-Sunday
 
 ---
-### **An Excellent Basis for the Provision of Insightful Comparisons.**
+### **Inspiring Enriched Work Experiences.**
 
-Moneypower International’s working capital Benchmarking Database provides a solid and excellent basis for the provision of insightful comparisons of organisations and industries.
+At moneypower international, our initial engagement with a client takes the form of a diagnostic review.
 
-Moneypower provides scaled benchmark comparisons and studies for the key working capital functions: accounts receivable, accounts payable, both interact with customer/supplier process flows. These comparisons can be scaled to virtually any sub-segment within any industry.
+We deploy a team of Professional and skilled Practitioners to the Client’s site(s). The Practitioners gather information and data through interviews and observations with/of key stakeholders, accumulate procedural documentation, and performance reports and amass extracted data for analysis.
 
-> **The information provided through the Benchmarking Services can be basic comparisons of standard performance metrics or more insightful, trended, performance metrics of the type that is used by Moneypower in its diagnostic reviews.**
+The team is onsite for 3 to 4 weeks during the diagnostic review. Our approach minimises distraction and disruption of existing workflow through prudent time management and is flexible and sensitive to the Client's needs. Moneypower, through hard work and planning, believes that our people make us successful. It is that simple. Moneypower embraces diversity, talent and thought. We create an environment that empowers the Client to openly and honestly comment, create and innovate. This is our culture and commitment.
 
-The Benchmarking Services provided by Moneypower enable self-examination and understanding that can form the basis for significantly improving working capital performance.
+The onsite portion of the diagnostic review is followed with an offsite period of data analysis and benchmarking and the creation of a review report detailing improvement potential and steps critical to the optimisation of working capital. Review reports are typically presented 6 to 8 weeks from kick-off.
+
+Of importance to most Clients, the review focuses on the people and resources currently engaged in the reviewed processes. The emphasis is on developing new, best practice skills where needed and to provide enriched work experience and performance level.
+
+The review report identifies the potential for some or all of the critical improvement steps to be self-implemented by the Client, where possible — in such circumstances identification of qualified personnel is made.
+
+![](/images/original.jpg)
