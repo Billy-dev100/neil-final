@@ -19,13 +19,13 @@ URL = "/service"
 name = "Service"
 weight = 3
 [[Languages.en.menu.nav]]
-URL = "/blog"
-name = "Blog"
-weight = 6
-[[Languages.en.menu.nav]]
 URL = "/team"
 name = "Team"
 weight = 4
+[[Languages.en.menu.nav]]
+URL = "/blog"
+name = "Blog"
+weight = 6
 [[Languages.en.menu.nav]]
 URL = "/contact"
 name = "Contact"
