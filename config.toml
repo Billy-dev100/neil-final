@@ -80,6 +80,9 @@ serviceItem = "Business Discontinuation Services"
 URL = "/service/benchmarking/"
 serviceItem = "benchmarking"
 [[Languages.en.params.footer.socialIcon]]
+URL = ""
+serviceItem = ""
+[[Languages.en.params.footer.socialIcon]]
 URL = "https://www.facebook.com"
 serviceItem = ""
 [[Languages.en.params.footer.socialIcon]]
@@ -280,9 +283,6 @@ icon = "ti-twitter-alt"
 [[Languages.en.params.sharePost]]
 URL = "https://www.linkedin.com"
 icon = "ti-linkedin"
-[[Languages.en.params.sharePost]]
-URL = "#"
-icon = "ti-google"
 [Languages.fr]
 home = "FR-Home"
 languageCode = "fr-fr"
