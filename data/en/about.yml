@@ -11,7 +11,7 @@ philosophy:
   btn:
     enable: true
     btnText: Explore More
-    btnURL: "#"
+    btnURL: "/service/"
 ceo:
   enable: true
   bgImage: images/ceo.png
