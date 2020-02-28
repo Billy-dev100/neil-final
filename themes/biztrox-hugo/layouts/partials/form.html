@@ -1,6 +1,4 @@
-{{ "<!-- form -->" | safeHTML }}
-             <div class="col-lg-6 col-md-7">
-                <div class="p-5 rounded box-shadow">
+
                     <form action="admin@moneypowerglobal.international" class="row">                       
                         <div class="col-lg-12">
                             {{ with $data.contact.formTitle }} <h3 class="mb-4">{{ . }}</h3> {{ end }}
@@ -30,4 +28,3 @@
                             {{ with $data.contact.btnText }} <button class="btn btn-primary" type="submit" value="send">{{ . }}</button> {{ end }}
                         </div>
                     </form>
-                </div>
