@@ -20,7 +20,10 @@
                 </ul>
             </div>
            {{ "<!-- form -->" | safeHTML }}
-            <form name="contact" method="POST" netlify>
+            <form name="contact" netlify-honeypot="bot-field" method="POST" action="/success/" netlify>
+                <p class=“u-visually-hidden">
+    <label>Don’t fill this out if you're human: <input name="bot-field"></label>
+  </p>
             <div class="col-lg-6 col-md-7">
                 <div class="p-5 rounded box-shadow">
                     <form action="" class="row">                       
