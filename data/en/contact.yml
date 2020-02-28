@@ -1,7 +1,7 @@
 ---
 enable: true
-title: Contact Us
-formTitle: Get in touch with us
+title: 'Contact or email us now! '
+formTitle: Any questions? We would like to hear from you
 btnText: Submit Now
 contactList:
 - icon: ti-mobile
