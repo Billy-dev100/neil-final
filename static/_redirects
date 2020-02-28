@@ -1,2 +1,3 @@
 # Redirect default Netlify subdomain to primary domain
 https://moneypowerglobal.netlify.com/* https://www.moneypowerglobal.international/:splat 301!
+www.moneypowerglobal.international* https://www.moneypowerglobal.international/:splat 301!
