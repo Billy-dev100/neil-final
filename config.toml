@@ -79,12 +79,9 @@ serviceItem = "Business Discontinuation Services"
 [[Languages.en.params.footer.service]]
 URL = "/service/benchmarking/"
 serviceItem = "benchmarking"
-[[Languages.en.params.footer.service]]
-URL = "https://www.facebook.com"
-icon = "ti-facebook"
 [[Languages.en.params.footer.socialIcon]]
-URL = "/service/diagnostic-review/"
-serviceItem = "Diagnostic Review"
+URL = "https://www.facebook.com"
+serviceItem = ""
 [[Languages.en.params.footer.socialIcon]]
 URL = "https://www.twitter.com"
 icon = "ti-twitter-alt"
