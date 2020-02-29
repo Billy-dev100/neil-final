@@ -16,7 +16,7 @@ name = "About Us"
 weight = 2
 [[Languages.en.menu.nav]]
 URL = "/service"
-name = "Service"
+name = "Our Service"
 weight = 3
 [[Languages.en.menu.nav]]
 URL = "/team"
