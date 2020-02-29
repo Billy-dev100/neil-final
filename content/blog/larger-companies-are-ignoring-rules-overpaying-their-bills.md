@@ -1,5 +1,5 @@
 +++
-author = "Chris Wilkinson"
+author = ""
 bgImage = "images/background/page-title.jpg"
 categories = []
 date = 2019-02-21T05:07:10Z
@@ -24,4 +24,4 @@ type = "post"
 
 > **For more detailed information on how Moneypower's solution can work for you - contact**
 >
-> [chris.wilkinson@moneypowerglobal.com](mailto:chris.wilkinson@moneypowerglobal.com)
+> [admin@moneypowerglobal.international](mailto:admin@moneypowerglobal.international)
