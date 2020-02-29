@@ -20,7 +20,7 @@ name = "Our Service"
 weight = 3
 [[Languages.en.menu.nav]]
 URL = "/team"
-name = "Team"
+name = "Leadership Team"
 weight = 4
 [[Languages.en.menu.nav]]
 URL = "/blog"
