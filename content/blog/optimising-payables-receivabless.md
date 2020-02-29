@@ -1,5 +1,5 @@
 +++
-author = "Chris Wilkinson"
+author = ""
 bgImage = "images/background/page-title.jpg"
 categories = []
 date = 2018-12-21T05:07:10Z
@@ -26,8 +26,8 @@ It’s important to stay on top of the sales ledger and to get payments in on ti
 4. **Send statements** out to your customers. It’s a great way to remind your customers about outstanding invoices, and you can do this easily in most account packages now.
 5. **All this can be a challenge** if you have different ledgers in different currencies. Payments can get held up by third parties like banks or be subject to additional security checks. With overseas customers, the upfront payment is the preferred choice or at least 50% of the invoice upfront. It can be difficult to chase money overseas, and if it turns out to be a bad debt, this can be even more complex and drawn out. Once again, make sure your customer is clear on payment terms.
 
-**At Moneypower we support businesses** by reviewing their financial procedures and helping them to free up working capital, without the need for finance facilities. 
+**At Moneypower we support businesses** by reviewing their financial procedures and helping them to free up working capital, without the need for finance facilities.
 
 > If you feel we can help by increasing cash flow and reducing your debtor days, please contact Chris Wilkinson.
 >
-> [chris.wilkinson@moneypowerglobal.com](mailto:chris.wilkinson@moneypowerglobal.com)
+> [admin@moneypowerglobal.international](mailto:admin@moneypowerglobal.international)
