@@ -20,7 +20,7 @@
         {{ "<!-- Widget Recent Post -->" | safeHTML }}
         <div class="mb-50">
             <h4 class="mb-3">Recent News</h4>
-            {{ range first 3 (where .Site.Pages "Type" "post") }}
+            {{ range first 4 (where .Site.Pages "Type" "post") }}
             {{ "<!-- post -->" | safeHTML }}
             <div class="d-flex py-3 border-bottom">
                 <div class="mr-4">
