@@ -12,7 +12,7 @@ title = "Moneypower International"
 weight = 1
 [[Languages.en.menu.nav]]
 URL = "/about"
-name = "About"
+name = "About Us"
 weight = 2
 [[Languages.en.menu.nav]]
 URL = "/service"
@@ -267,7 +267,7 @@ image = "images/client-logo-1.jpg"
 [Languages.en.params.promoVideo]
 bgImage = "images/background/promo-video.jpg"
 enable = false
-heading = "We Are Alawys <br> Comited"
+heading = "We Are Always <br> Comitted"
 title = "Lorem ipsum dolor <br> sit amet con."
 videoURL = "https://www.youtube.com/watch?v=6ZfuNTqbHE8"
 [Languages.en.params.quoteBtn]
