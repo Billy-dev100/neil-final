@@ -27,11 +27,7 @@
                 </div>
             </div>
             {{ "<!-- progressbar -->" | safeHTML }}
-            <div class="container">
-        <div class="row justify-content-center">
-            <div class="col-lg-12 text-center">
-                <h2 class="section-title section-title-border">What We Do</h2
-            <div class="col-lg-6">
+             <div class="col-lg-6">
                 {{ range $data.skill.progressBar }}
                 <div class="progressbar">
                     <h5 class="progressbar-title">{{ .title }}</h5>
@@ -39,9 +35,6 @@
                         <div class="progress-bar progress-bar-striped" style="width: {{ .progress }}">
                             <div class="progress-bar-value">{{ .progress }}</div>
                         </div>
-                       </div>
-                    </div>
-                  </div>
                     </div>
                 </div>
                 {{ end }}
