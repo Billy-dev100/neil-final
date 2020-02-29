@@ -51,6 +51,7 @@
             {{- end }}
         </div>
         
+        {{ if .Site.Widgets.Newsletter.disable }}
         {{ "<!-- Widget Newsletter -->" | safeHTML }}
         <div class="newsletter">
             <h4 class="mb-3">Stay Updated</h4>
