@@ -28,11 +28,9 @@
                 </div>
             </div>
             
-           <div class="column">
+      
             {{ "<!-- progressbar -->" | safeHTML }}
-              
-
-            <div class="col-lg-6">
+              <div class="col-lg-6">
                 {{ range $data.skill.progressBar }}
                 <div class="progressbar">
                     <h5 class="progressbar-title">{{ .title }}</h6>
@@ -46,6 +44,5 @@
             </div>
         </div>
     </div>
-        </div>
 </section>
 {{ "<!-- /skill -->" | safeHTML }}
