@@ -465,7 +465,7 @@ icon = "ti-linkedin"
 URL = "#"
 icon = "ti-google"
 [params]
-author = ""
+author = "businessmagix"
 description = ""
 gmapAPI = ""
 googleAnalitycsID = "UA-159124044-1"
