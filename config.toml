@@ -272,7 +272,7 @@ title = "Lorem ipsum dolor <br> sit amet con."
 videoURL = "https://www.youtube.com/watch?v=6ZfuNTqbHE8"
 [Languages.en.params.quoteBtn]
 btnText = "get a quote"
-btnURL = "#"
+btnURL = "/contact"
 enable = false
 [[Languages.en.params.sharePost]]
 URL = "https://www.facebook.com"
