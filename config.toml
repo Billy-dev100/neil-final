@@ -16,7 +16,7 @@ name = "About Us"
 weight = 2
 [[Languages.en.menu.nav]]
 URL = "/service"
-name = "Our Service"
+name = "Our Services"
 weight = 3
 [[Languages.en.menu.nav]]
 URL = "/team"
@@ -28,7 +28,7 @@ name = "Our Blog"
 weight = 6
 [[Languages.en.menu.nav]]
 URL = "/contact"
-name = "Contact"
+name = "Contact Us"
 weight = 8
 [[Languages.en.menu.nav]]
 hasChildren = true
