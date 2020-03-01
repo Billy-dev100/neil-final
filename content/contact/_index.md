@@ -1,6 +1,7 @@
 ---
-title: "Contact"
-date: 2018-07-12T18:19:33+06:00
-bgImage: images/background/page-title.jpg
-description : "This is meta description"
+title: Contact
+date: 2018-07-12T12:19:33.000+00:00
+bgImage: images/man-in-black-holding-phone-618613.jpg
+description: This is meta description
+
 ---
