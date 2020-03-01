@@ -1,7 +1,7 @@
 ---
 title: About Us
 date: 2018-07-12T12:19:33.000+00:00
-bgImage: images/pexels-photo-669615.jpeg
+bgImage: images/photo-of-people-doing-handshakes-3183197.jpg
 description: This is meta description
 
 ---
