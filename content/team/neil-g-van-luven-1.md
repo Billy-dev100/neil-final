@@ -7,7 +7,6 @@ cvURL = "https://www.neilgvanluven.com/"
 date = 2018-09-29T08:42:51Z
 description = ""
 designation = "Director  "
-draft = true
 email = "admin@moneypowerglobal.com"
 experienceOf = "40 Years"
 facebookURL = ""
