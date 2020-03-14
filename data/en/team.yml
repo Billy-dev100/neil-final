@@ -1,7 +1,7 @@
 ---
 title: ''
 content: '<div style="float: left; width: 50%;"><img style="float: right;" src="/images/team-2.png"
-  width="60%"/></div> <div style="float: left; width: 50%;"><img style="float: right;"
-  src="/images/team-2.png" width="60%"/></div>'
+  width="100%"/></div> <div style="float: left; width: 50%;"><img style="float: right;"
+  src="/images/team-2.png" width="100%"/></div>'
 upload_image: []
 img: "/images/team-2.png"
