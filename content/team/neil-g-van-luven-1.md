@@ -7,7 +7,7 @@ cvURL = "https://www.neilgvanluven.com/"
 date = 2018-09-29T08:42:51Z
 description = ""
 designation = "Director  "
-email = "admin@moneypowerglobal.com"
+email = "pauline@moneypowerglobal.com"
 experienceOf = "40 Years"
 facebookURL = ""
 from = "United Kingdom."
@@ -22,3 +22,4 @@ title = "Pauline Van Luven"
 twitterURL = ""
 
 +++
+Pauline is a co-Trustee of Bretcrown Trust and has worked along-side Neil in developing Moneypower International into a major multi-national Management Consultancy over a 40-year period. Over this time, she visited with Neil 48 Countries in perplexing jurisdictions with varying geopolitical beliefs. Pauline’s expertise is connecting people with people. In 2015, she created an online luxury designer fashion retailer Bretcrown BTS (Best Top Sellers) and developed exceptional relationships with many of the top Platforms globally including eBay, Amazon, 1stdibs, Vestiaire Collective, Rebelle, HEWI and others. In the last year, Pauline developed her interest in green sustainable energies and Spread-Betting, working closely with Neil.
