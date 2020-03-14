@@ -1,5 +1,4 @@
 ---
 title: ''
-content: "<img src=images/team-2.png>moneypower international implementation team</img>"
-upload_image:
-- "/images/team-2.png"
+content: "<img src=images/team-2.png></img>"
+upload_image: []
