@@ -29,19 +29,7 @@
             </div>
             
       
-            {{ "<!-- progressbar -->" | safeHTML }}
-              <div class="col-lg-6">
-                {{ range $data.skill.progressBar }}
-                <div class="progressbar">
-                    <h5 class="progressbar-title">{{ .title }}</h6>
-                    <div class="progress" data-percent="{{ .progress }}">
-                        <div class="progress-bar progress-bar-striped" style="width: {{ .progress }}">
-                            <div class="progress-bar-value">{{ .progress }}</div>
-                        </div>
-                    </div>
-                </div>
-                  
-                {{ end }}
+            
             </div>
         </div>
     </div>
