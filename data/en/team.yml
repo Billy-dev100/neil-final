@@ -1,4 +1,4 @@
 ---
 title: ''
-content: "<img src=images/team-2.png></img>"
+content: <img src="static/images/team-2.png"></img>
 upload_image: []
