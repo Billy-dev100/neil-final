@@ -8,10 +8,10 @@ fields:
 - type: text
   name: content
   label: content
-- name: upload_image
-  type: image_gallery
-  config: {}
-  label: upload image
-  description: image
+- name: img
+  type: file
+  config:
+    maxSize: 250
+  label: img
 pages:
 - data/en/team.yml
