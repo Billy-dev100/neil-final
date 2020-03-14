@@ -1,5 +1,5 @@
 ---
 title: ''
-content: '<img src="/images/team-2.png"; width: 100%></img>'
+content: <img src="/images/team-2.png"; width="500"></img>
 upload_image: []
 img: "/images/team-2.png"
