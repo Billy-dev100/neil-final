@@ -3,9 +3,6 @@ label: Team
 hide_body: false
 fields:
 - type: text
-  name: title
-  label: title
-- type: text
   name: content
   label: content
 - name: img
@@ -13,5 +10,8 @@ fields:
   config:
     maxSize: 250
   label: img
+- type: text
+  name: title
+  label: title
 pages:
 - data/en/team.yml
