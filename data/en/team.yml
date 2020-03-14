@@ -1,6 +1,6 @@
 ---
 title: ''
-content: <img src="/images/team-2.png"; width="50%"></img> <img src="/images/team-2.png";
+content: <img src="/images/team-2.png"; id="responsive-image"></img> <img src="/images/team-2.png";
   width="50%"></img>
 upload_image: []
 img: "/images/team-2.png"
