@@ -16,11 +16,11 @@
                     <div class="row">
                         {{ range $data.skill.counter }}
                         <div class="col-4 text-center">
-                            <div class="d-flex flex-column flex-sm-row align-items-center">
+                            <div class="d-flex flex-column flex-sm-row align-items-left">
                                 <i class="round-icon mr-sm-auto {{ .icon }}"></i>
                                 <div class="text-center text-sm-center">
                                     <h2 class="count mb-0" data-count="{{ .count }}">0</h2>
-                                    <p class="mb-auto">{{ .title }}</p>
+                                    <p class="mb-2">{{ .title }}</p>
                                 </div>
                             </div>
                        </div>
