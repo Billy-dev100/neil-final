@@ -13,7 +13,7 @@
                 <p class="text-dark mb-40">{{ with $data.skill.content }} {{ . | safeHTML }} {{ end }}</p>
                 {{ "<!-- fun-fact -->" | safeHTML }}
                 <div class="mb-md-50">
-                    <div class="row">
+                   
                         {{ range $data.skill.counter }}
                         <div class="col-4 text-center">
                             <div class="d-flex flex-column flex-sm-row align-items-left">
@@ -23,7 +23,7 @@
                                     <p class="mb-0">{{ .title }}</p>
                                 </div>
                             </div>
-                        </div>
+                       
                         {{ end }}
                     </div>
                 </div>
