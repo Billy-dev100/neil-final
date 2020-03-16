@@ -10,9 +10,9 @@
             </div>
             
             <div class="col-lg-12">
-                <p class="text-dark mb-40">{{ with $data.skill.content }} {{ . | safeHTML }} {{ end }}</p>
+                <p class="text-dark mb-40 text-center">{{ with $data.skill.content }} {{ . | safeHTML }} {{ end }}</p>
                 {{ "<!-- fun-fact -->" | safeHTML }}
-                <div class="mb-md-50">
+                <div class="mb-md-50 text-center">
                     <div class="row">
                         {{ range $data.skill.counter }}
                         <div class="col-4 text-center">
