@@ -5,6 +5,10 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: document
+  path: layouts/partials/skill1.html
+  label: skill1
+  match: "**/*"
+- type: document
   path: data/en/testimonial.yml
   label: Data- testimonials
 - type: document
