@@ -30,4 +30,3 @@ fields:
   label: paragraph
 pages:
 - data/en/team.yml
-- layouts/partials/skill1.html/Implementation_Team.md
