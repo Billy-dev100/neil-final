@@ -52,8 +52,6 @@ sections:
   label: Team
   create: all
   match: "**/*"
-  templates:
-  - team-test
 - type: directory
   path: content/service
   label: Service
