@@ -14,3 +14,17 @@ fields:
 - type: file
   name: img
   label: img
+- name: title1
+  type: text
+  config:
+    required: false
+  label: title1
+- name: paragraph
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: paragraph
