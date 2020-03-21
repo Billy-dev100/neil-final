@@ -20,3 +20,8 @@ fields:
   type: image_gallery
   config: {}
   label: multiple image
+- name: image
+  type: file
+  config:
+    maxSize: 250
+  label: image
