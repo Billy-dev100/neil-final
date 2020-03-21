@@ -5,4 +5,3 @@ upload_image: []
 img: ''
 title1: ''
 paragraph: "![](/images/works/work-4.jpg)"
-{{ partial "skill.html" . }}
