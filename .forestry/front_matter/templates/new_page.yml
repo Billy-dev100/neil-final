@@ -1,4 +1,13 @@
 ---
 label: new_page
 hide_body: true
-fields: []
+fields:
+- name: title
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: title
