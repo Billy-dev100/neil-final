@@ -11,3 +11,7 @@ fields:
     schema:
       format: markdown
   label: title
+- name: multiple_image
+  type: image_gallery
+  config: {}
+  label: multiple image
