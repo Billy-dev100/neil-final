@@ -25,5 +25,3 @@ fields:
   config:
     maxSize: 250
   label: image
-pages:
-- content/The Implementation Team.html
