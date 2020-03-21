@@ -7,7 +7,6 @@ sections:
 - type: document
   path: themes/biztrox-hugo/layouts/team/list.html
   label: Team_list
-  match: "**/*"
 - type: document
   path: data/en/testimonial.yml
   label: Data- testimonials
