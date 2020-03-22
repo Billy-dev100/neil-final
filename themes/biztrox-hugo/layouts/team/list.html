@@ -1,58 +1,17 @@
 {
   "enable": false,
   "titleSM": "",
-  "title": "",
+  "title": "    \n    {{ partial \"pageTitle.html\" . }}\n    \n    {{ partial \"team.html\" . }}\n    \n    {{ $data := index .Site.Data .Site.Language.Lang }}\n    {{ if $data.skill.enable }}\n    {{ \"<!-- skill -->\" | safeHTML }}\n    <section class=\"section\">\n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"col-lg-12 text-center\">\n                   {{ with $data.skill.titleSM }} <h5 class=\"section-title-sm\">{{ . }}</h5> {{ end }}\n                   {{ with $data.skill.title }} <h2 class=\"section-title section-title-border\">{{ . }}</h2> {{ end }}\n                </div>\n                \n                <div class=\"col-lg-12 text-center\">\n                    <p class=\"text-dark mb-40\">{{ with $data.skill.content }} {{ . | safeHTML }} {{ end }}</p>\n                    {{ \"<!-- fun-fact -->\" | safeHTML }}\n                    <div class=\"mb-md-50\">\n                        <div class=\"row\">\n                            {{ range $data.skill.counter }}\n                            <div class=\"col-4 text-center\">\n                                <div class=\"d-flex flex-column flex-sm-row justify-content-center\">\n                                    <i class=\"round-icon mr-sm-3 align-content-center {{ .icon }}\"></i>\n    \n                                        <div class=\"col-4\">\n                                    <div class=\"text-center text-sm-left\">\n                                        <h2 class=\"count mb-0 \" data-count=\"{{ .count }}\">0</h2>\n                                        <p class=\"mb-0\">{{ .title }}</p>\n                                    </div>\n                                            </div>\n                                </div>\n                           </div>\n                            {{ end }}\n                        </div>\n                    </div>\n                </div>\n                   \n    </div>\n            </div>\n      \n    </section>\n    {{ \"<!-- /skill -->\" | safeHTML }}\n    {{ end }}\n    {{ end }}\n    ",
   "content": "",
   "counter": [
 
   ],
   "progressBar": [
 
-  ]
+  ],
+  "multiple_image": [
+
+  ],
+  "image": "",
+  "page_title": "Leadership team"
 }
-
-{{ partial "pageTitle.html" . }}
-
-{{ partial "team.html" . }}
-
-{{ $data := index .Site.Data .Site.Language.Lang }}
-{{ if $data.skill.enable }}
-{{ "<!-- skill -->" | safeHTML }}
-<section class="section">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-12 text-center">
-               {{ with $data.skill.titleSM }} <h5 class="section-title-sm">{{ . }}</h5> {{ end }}
-               {{ with $data.skill.title }} <h2 class="section-title section-title-border">{{ . }}</h2> {{ end }}
-            </div>
-            
-            <div class="col-lg-12 text-center">
-                <p class="text-dark mb-40">{{ with $data.skill.content }} {{ . | safeHTML }} {{ end }}</p>
-                {{ "<!-- fun-fact -->" | safeHTML }}
-                <div class="mb-md-50">
-                    <div class="row">
-                        {{ range $data.skill.counter }}
-                        <div class="col-4 text-center">
-                            <div class="d-flex flex-column flex-sm-row justify-content-center">
-                                <i class="round-icon mr-sm-3 align-content-center {{ .icon }}"></i>
-
-                                    <div class="col-4">
-                                <div class="text-center text-sm-left">
-                                    <h2 class="count mb-0 " data-count="{{ .count }}">0</h2>
-                                    <p class="mb-0">{{ .title }}</p>
-                                </div>
-                                        </div>
-                            </div>
-                       </div>
-                        {{ end }}
-                    </div>
-                </div>
-            </div>
-               
-</div>
-        </div>
-  
-</section>
-{{ "<!-- /skill -->" | safeHTML }}
-{{ end }}
-{{ end }}
