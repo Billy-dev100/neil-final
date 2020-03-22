@@ -37,3 +37,5 @@ fields:
   - type: text
     name: progress
     label: progress
+pages:
+- themes/biztrox-hugo/layouts/team/list.html
