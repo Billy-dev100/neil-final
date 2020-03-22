@@ -35,27 +35,7 @@
                             </div>
                        </div>
                         {{ end }}
-                       <section class="section">
-                        <div class="container">
-                            <div class="row">         
-                                <div class="col-sm-6 mb-4">
-                                    <div class="bg-gray rounded mb-50">
-                                        <img class="img-fluid w-100 rounded-top" src="{{ .Params.Image | absURL }}" alt="team member">
-                                    </div>
-                                </div>
-                                <div class="col-sm-6 mb-4">
-                                    <div class="bg-gray rounded mb-50">
-                                        <img class="img-fluid w-100 rounded-top" src="{{ .Params.Image | absURL }}" alt="team member">
-                                    </div>
-                                </div>
-                                <div class="col-sm-6 mb-4">
-                                    <div class="bg-gray rounded mb-50">
-                                        <img class="img-fluid w-100 rounded-top" src="{{ .Params.Image | absURL }}" alt="team member">
-                                    </div>
-                                </div>
-                             </div>
-                            </div>
-                         </div>       
+                       
                     </div>
                 </div>
             </div>
@@ -67,5 +47,25 @@
 </section>
 {{ "<!-- /skill -->" | safeHTML }}
 {{ end }}
-
+                <section class="section">
+                        <div class="container">
+                            <div class="row">         
+                                <div class="col-sm-6 mb-4">
+                                    <div class="bg-gray rounded mb-50">
+                                        <img class="img-fluid w-100 rounded-top" src="{{ .Params.Image | absURL }}" alt="team member">
+                                    </div>
+                               
+                              
+                                    <div class="bg-gray rounded mb-50">
+                                        <img class="img-fluid w-100 rounded-top" src="{{ .Params.Image | absURL }}" alt="team member">
+                                    </div>
+                                
+                         
+                                    <div class="bg-gray rounded mb-50">
+                                        <img class="img-fluid w-100 rounded-top" src="{{ .Params.Image | absURL }}" alt="team member">
+                                    </div>
+                           
+                                 </div>
+                            </div>
+                         </div>       
 {{ end }}
