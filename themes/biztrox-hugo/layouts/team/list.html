@@ -47,10 +47,15 @@
 </section>
 {{ "<!-- /skill -->" | safeHTML }}
 {{ end }}
-                
-                    <div class="card-body p-0">
-                        
-                        <p class="card-text mx-2 mb-0">{{ .Summary }}</p>
-                        <a href="{{ .Permalink }}" class="btn btn-secondary translateY-25">Read More</a>
-                    </div>
+                <section class="" style="">
+                        <div class="container">
+                            <div class="row">         
+                                    <div class="col-12 text-center">
+                                        <div class="card-body p-0">
+                                            <p class="card-text mx-2 mb-0">{{ .Summary }}</p>
+                                            <a href="{{ .Permalink }}" class="btn btn-secondary translateY-25">Read More</a>
+                                        </div>
+                                     </div>
+                                 </div>
+                             </div>
 {{ end }}
