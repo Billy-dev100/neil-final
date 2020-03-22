@@ -5,8 +5,7 @@
 {{ partial "team.html" . }}
 
 {{ $data := index .Site.Data .Site.Language.Lang }}
-{{ if $data.skill.enable }}
-{{ "<!-- skill -->" | safeHTML }}
+
 <section class="section">
     <div class="container">
         <div class="row">
@@ -43,7 +42,7 @@
         </div>
     </div>
 </section>
-{{ "<!-- /skill -->" | safeHTML }}
+
 {{ end }}
 
 {{ end }}
