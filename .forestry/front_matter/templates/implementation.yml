@@ -37,3 +37,5 @@ fields:
   - type: text
     name: progress
     label: progress
+pages:
+- content/our-implementation-team.md
