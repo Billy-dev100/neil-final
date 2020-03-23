@@ -10,9 +10,6 @@ sections:
   create: all
   match: "**/*"
 - type: document
-  path: themes/biztrox-hugo/layouts/team/list.html
-  label: list
-- type: document
   path: data/en/testimonial.yml
   label: Data- testimonials
 - type: document
