@@ -1,4 +1,12 @@
 ---
 label: page
 hide_body: false
-fields: []
+fields:
+- name: page_sections
+  type: blocks
+  label: Page Sections
+  template_types:
+  - highlights
+  config:
+    min: 
+    max: 
