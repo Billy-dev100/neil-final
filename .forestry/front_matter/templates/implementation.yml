@@ -20,4 +20,3 @@ fields:
       format: html-blocks
 pages:
 - content/our-implementation-team.md
-- themes/biztrox-hugo/layouts/team/list.html
