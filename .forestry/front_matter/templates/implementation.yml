@@ -14,29 +14,10 @@ fields:
 - type: textarea
   name: content
   label: content
-- type: field_group_list
-  name: counter
-  label: counter
-  fields:
-  - type: text
-    name: icon
-    label: icon
-  - type: text
-    name: title
-    label: title
-  - type: text
-    name: count
-    label: count
-- type: field_group_list
-  name: progressBar
-  label: progressBar
-  fields:
-  - type: text
-    name: title
-    label: title
-  - type: text
-    name: progress
-    label: progress
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
 pages:
 - content/our-implementation-team.md
 - themes/biztrox-hugo/layouts/team/list.html
