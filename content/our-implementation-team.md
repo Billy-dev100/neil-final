@@ -1,7 +1,6 @@
 +++
 content = ""
 counter = []
-draft = true
 enable = false
 progressBar = []
 title = "Our Implementation Team"
