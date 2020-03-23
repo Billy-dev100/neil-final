@@ -39,3 +39,4 @@ fields:
     label: progress
 pages:
 - content/our-implementation-team.md
+- themes/biztrox-hugo/layouts/team/list.html
