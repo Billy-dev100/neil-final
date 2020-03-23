@@ -25,7 +25,7 @@ sections:
   path: data/en/project.yml
   label: Data-project
 - type: document
-  path: data/en/pricing.yml
+  path: data/en/implementation.yml
   label: Data-Pricing
 - type: document
   path: data/en/mission.yml
