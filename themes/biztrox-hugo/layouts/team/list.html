@@ -1,12 +1,107 @@
-{
-  "enable": true,
-  "titleSM": "",
-  "title": "",
-  "content": "<p>{{ partial \"pageTitle.html\" . }}</p><p>{{ partial \"team.html\" . }}</p><p>{{ $data := index .Site.Data .Site.Language.Lang }}</p><p>{{ if $data.skill.enable }}</p><p>{{ \"&lt;!-- skill --&gt;\" | safeHTML }}</p><p>&lt;section class=\"section\"&gt;</p><p>    &lt;div class=\"container\"&gt;</p><p>        &lt;div class=\"row\"&gt;</p><p>            &lt;div class=\"col-lg-12 text-center\"&gt;</p><p>               {{ with $data.skill.titleSM }} &lt;h5 class=\"section-title-sm\"&gt;{{ . }}&lt;/h5&gt; {{ end }}</p><p>               {{ with $data.skill.title }} &lt;h2 class=\"section-title section-title-border\"&gt;{{ . }}&lt;/h2&gt; {{ end }}</p><p>            &lt;/div&gt;</p><p>            </p><p>            &lt;div class=\"col-lg-12 text-center\"&gt;</p><p>                &lt;p class=\"text-dark mb-40\"&gt;{{ with $data.skill.content }} {{ . | safeHTML }} {{ end }}&lt;/p&gt;</p><p>                {{ \"&lt;!-- fun-fact --&gt;\" | safeHTML }}</p><p>                &lt;div class=\"mb-md-50\"&gt;</p><p>                    &lt;div class=\"row\"&gt;</p><p>                        {{ range $data.skill.counter }}</p><p>                        &lt;div class=\"col-4 text-center\"&gt;</p><p>                            &lt;div class=\"d-flex flex-column flex-sm-row justify-content-center\"&gt;</p><p>                                &lt;i class=\"round-icon mr-sm-3 align-content-center {{ .icon }}\"&gt;&lt;/i&gt;</p><p>                                    &lt;div class=\"col-4\"&gt;</p><p>                                &lt;div class=\"text-center text-sm-left\"&gt;</p><p>                                    &lt;h2 class=\"count mb-0 \" data-count=\"{{ .count }}\"&gt;0&lt;/h2&gt;</p><p>                                    &lt;p class=\"mb-0\"&gt;{{ .title }}&lt;/p&gt;</p><p>                                &lt;/div&gt;</p><p>                                        &lt;/div&gt;</p><p>                            &lt;/div&gt;</p><p>                       &lt;/div&gt;</p><p>                        {{ end }}</p><p>                       </p><p>                    &lt;/div&gt;</p><p>                &lt;/div&gt;</p><p>            &lt;/div&gt;</p><p>                    </p><p>            </p><p>            &lt;/div&gt;</p><p>        &lt;/div&gt;</p><p>&lt;/section&gt;</p><p>{{ \"&lt;!-- /skill --&gt;\" | safeHTML }}</p><p>{{ end }}</p><p>                &lt;section class=\"\" style=\"\"&gt;</p><p>                        &lt;div class=\"container\"&gt;</p><p>                            &lt;div class=\"row\"&gt;         </p><p>                                    &lt;div class=\"col-12 text-center\"&gt;</p><p>                                        &lt;div class=\"card-body p-0\"&gt;</p><p>                                            &lt;p class=\"card-text mx-2 mb-0\"&gt;{{ .Summary }}&lt;/p&gt;</p><p>                                            &lt;a href=\"{{ .Permalink }}\" class=\"btn btn-secondary translateY-450 translateX0\"&gt;<a href=\"/service/\" title=\"\">Read More</a>&lt;/a&gt;</p><p>                                        &lt;/div&gt;</p><p>                                     &lt;/div&gt;</p><p>                                 &lt;/div&gt;</p><p>                             &lt;/div&gt;</p><p>{{ end }}</p>",
-  "counter": [
+{{ partial "pageTitle.html" . }}
 
-  ],
-  "progressBar": [
+{{ partial "team.html" . }}
 
-  ]
-}
+{{ $data := index .Site.Data .Site.Language.Lang }}
+
+{{ if $data.skill.enable }}
+
+{{ "<!-- skill -->" | safeHTML }}
+
+<section class="section">
+
+    <div class="container">
+
+        <div class="row">
+
+            <div class="col-lg-12 text-center">
+
+               {{ with $data.skill.titleSM }} <h5 class="section-title-sm">{{ . }}</h5> {{ end }}
+
+               {{ with $data.skill.title }} <h2 class="section-title section-title-border">{{ . }}</h2> {{ end }}
+
+            </div>
+
+            
+
+            <div class="col-lg-12 text-center">
+
+                <p class="text-dark mb-40">{{ with $data.skill.content }} {{ . | safeHTML }} {{ end }}</p>
+
+                {{ "<!-- fun-fact -->" | safeHTML }}
+
+                <div class="mb-md-50">
+
+                    <div class="row">
+
+                        {{ range $data.skill.counter }}
+
+                        <div class="col-4 text-center">
+
+                            <div class="d-flex flex-column flex-sm-row justify-content-center">
+
+                                <i class="round-icon mr-sm-3 align-content-center {{ .icon }}"></i>
+
+                                    <div class="col-4">
+
+                                <div class="text-center text-sm-left">
+
+                                    <h2 class="count mb-0 " data-count="{{ .count }}">0</h2>
+
+                                    <p class="mb-0">{{ .title }}</p>
+
+                                </div>
+
+                                        </div>
+
+                            </div>
+
+                       </div>
+
+                        {{ end }}
+
+                       
+
+                    </div>
+
+                </div>
+
+            </div>
+
+                    
+
+            
+
+            </div>
+
+        </div>
+
+</section>
+
+{{ "<!-- /skill -->" | safeHTML }}
+
+{{ end }}
+
+                <section class="" style="">
+
+                        <div class="container">
+
+                            <div class="row">         
+
+                                    <div class="col-12 text-center">
+
+                                        <div class="card-body p-0">
+
+                                            <p class="card-text mx-2 mb-0">{{ .Summary }}</p>
+
+                                            <a href="{{ .Permalink }}" class="btn btn-secondary translateY-450 translateX0">Read More</a>
+
+                                        </div>
+
+                                     </div>
+
+                                 </div>
+
+                             </div>
+
+{{ end }}
