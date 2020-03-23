@@ -25,5 +25,3 @@ fields:
   config:
     maxSize: 250
   label: image
-pages:
-- themes/biztrox-hugo/layouts/team/list.html
