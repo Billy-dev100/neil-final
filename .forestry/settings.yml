@@ -78,7 +78,7 @@ sections:
   create: all
   match: "**/*"
 - type: directory
-  path: content/pricing
+  path: content/implementation
   label: Implementation Team
   create: all
   match: "**/*"
