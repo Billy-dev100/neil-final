@@ -1,5 +1,9 @@
-{{ define "main" }}
-
+{
+  "enable": false,
+  "titleSM": "",
+  "title": "",
+  "content": ""
+}
 {{ partial "pageTitle.html" . }}
 
 {{ partial "team.html" . }}
@@ -43,22 +47,19 @@
             
             </div>
         </div>
-    </div>
+   
 </section>
 {{ "<!-- /skill -->" | safeHTML }}
-
-<section class="" style="">
+{{ end }}
+                <section class="" style="">
                         <div class="container">
                             <div class="row">         
                                     <div class="col-12 text-center">
                                         <div class="card-body p-0">
                                             <p class="card-text mx-2 mb-0">{{ .Summary }}</p>
-                                            <a href="#" class="btn btn-secondary translateY-450 translateX0">Read More</a>
+                                            <a href="{{ .Permalink }}" class="btn btn-secondary translateY-450 translateX0">Read More</a>
                                         </div>
                                      </div>
                                  </div>
                              </div>
-              </section>
-{{ end }}
-                
 {{ end }}
