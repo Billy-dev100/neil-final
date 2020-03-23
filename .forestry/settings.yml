@@ -4,10 +4,14 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
+- type: directory
+  path: themes/biztrox-hugo/layouts
+  label: partials
+  create: all
+  match: "**/*"
 - type: document
   path: themes/biztrox-hugo/layouts/team/list.html
   label: list
-  match: "**/*"
 - type: document
   path: data/en/testimonial.yml
   label: Data- testimonials
