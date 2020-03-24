@@ -1,0 +1,13 @@
+{{ define "main" }}
+
+{{ partial "pageTitle.html" . }}
+{{ .Content }}
+{{ partial "img-grid.html" . }}
+
+<!-- tip -->
+<!-- {{ range .Site.Pages }}
+<p>
+  <a href = '{{ .RelPermalink }}'>{{ .Title }} ~~ {{ .RelPermalink }}</a>
+</p>
+{{ end }} -->
+{{ end }}
