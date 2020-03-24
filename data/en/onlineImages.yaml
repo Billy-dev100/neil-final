@@ -1,0 +1,6 @@
+- name: "image1.jpg"
+  alt:  "image1 description"
+- name: "image2.jpg"
+  alt:  "image2 description"
+- name: "image3.jpg"
+  alt:  "image3 description"
