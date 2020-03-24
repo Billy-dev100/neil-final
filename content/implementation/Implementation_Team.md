@@ -5,4 +5,4 @@ title = ""
 titleSM = "Our Implementation Team"
 
 +++
-![](/images/project/project-3.jpg)
+General mundane stuff
