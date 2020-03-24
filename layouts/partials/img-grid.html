@@ -1,17 +1,58 @@
-<div class="mw7 center ph3 pv4">
+<section id="Implementation Team">
 
-	<div class="flex flex-wrap mhn1">
-		<div class="w-100 w-50-ns ph1-ns">
-			<img src="#" alt="{{ .image1.alt }}">
-		</div>
+<!-- Page Content -->
+ {{ range $index, $element :=  .Site.RegularPages }}{{ if or (eq .Section "services") (eq .Section "post") }}
+    {{ if modBool $index 2 }}
+    <div class="content-section-a">
 
-		<div class="w-100 w-50-ns ph1-ns">
-			<img src="#" alt="{{ .image2.alt }}">
-		</div>
+        <div class="container">
 
-		<div class="w-100 ph1-ns">
-			<img src="#" alt="{{ .image3.alt }}">
-		</div>
-	</div>
+            <div class="row">
+                <div class="col-lg-5 col-sm-6">
+                    <hr class="section-heading-spacer">
+                    <div class="clearfix"></div>
+                    <h2 class="section-heading">{{ .Title }}</h2>
+                    {{ .Content }}
+                </div>
+                {{ with .Params.img }}
+                <div class="col-lg-5 col-lg-offset-2 col-sm-6">
+                    <img class="img-responsive" src="img/{{ . }}" alt="">
+                </div>
+                {{ end }}
+            </div>
 
-</div>
+        </div>
+        <!-- /.container -->
+
+    </div>
+    <!-- /.content-section-a -->
+    {{ else }}
+
+    <div class="content-section-b">
+
+        <div class="container">
+
+            <div class="row">
+                <div class="col-lg-5 col-lg-offset-1 col-sm-push-6  col-sm-6">
+                    <hr class="section-heading-spacer">
+                    <div class="clearfix"></div>
+                    <h2 class="section-heading">{{ .Title }}</h2>
+                    {{ .Content }}
+                </div>
+                {{ with .Params.img }}
+                <div class="col-lg-5 col-sm-pull-6  col-sm-6">
+                  <img class="img-responsive" src="img/{{ . }}" alt="">
+                </div>
+                {{ end }}
+            </div>
+
+        </div>
+        <!-- /.container -->
+
+    </div>
+    {{ end }}
+    <!-- /.content-section-b -->
+    {{ end }}
+{{ end }}
+
+</section>
