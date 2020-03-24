@@ -1,8 +1,9 @@
 ---
 title: Implementation Team
-bgImage: images/team-us-1.jpg
 date: 2018-07-12T12:19:33.000+00:00
+bgImage: images/team-us-1.jpg
 description: This is meta description
+draft: true
 
 ---
 Our Team of Practitioners include accountants, marketing gurus, consultants, advisors, bankers, project managers, and various levels of support staff. Below is a selection of our Team Members in various in situ offices doing what they do best - to lead the way for Clients and teach Clients’ staff Members best practices so that improved performance and results  are long- lasting.
