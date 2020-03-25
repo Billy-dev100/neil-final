@@ -31,8 +31,6 @@ We take into account all technical indicators such as the Bollinger Bands, Fibon
 
 Get our ebook for secret tips on how Neil G Van Luven transformed $38,673 into $1,129,030 in 14 weeks by Spread-betting crude oil!
 
-{{< button "[https://www.amazon.com/dp/1075166098?ref_=pe_3052080_397514860](https://www.amazon.com/dp/1075166098?ref_=pe_3052080_397514860 "https://www.amazon.com/dp/1075166098?ref_=pe_3052080_397514860")" "download book" >}}
-
 {{< /column >}} {{< /grid >}}
 
 {{< block "center">}}
@@ -90,8 +88,6 @@ During a span of over 40 years, Neil collaborated with more than 1,000 Clients i
 Neil's first Book - 'Secrets of Balance Sheet Optimization' was Published in May 2014. Amazon ranked it #17 out of their top 100 in its Business Analysis classification.
 
 Neil's latest book on Spread-Betting Crude Oil reveals his experiences and secrets for the innovation leading success.
-
-{{< button "/about-us/" "Read More" >}}
 
 {{< /column >}}
 
