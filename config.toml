@@ -468,6 +468,9 @@ icon = "ti-linkedin"
 [[Languages.fr.params.sharePost]]
 URL = "#"
 icon = "ti-google"
+
+disableOutput = ['section-name', "implementation"]
+
 [params]
 author = "businessmagix"
 description = ""
