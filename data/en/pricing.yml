@@ -9,14 +9,14 @@ content: Our Team of Practitioners include accountants, marketing gurus, consult
 pricingItem:
 - title: We Bring On The Table The Following
   icon: ti-key
-  value: "$129"
-  validity: month
-  btnText: Buy Now
+  value: ''
+  validity: ''
+  btnText: ''
   btnURL: "#"
   serviceList:
-  - listItem: Business Services
-  - listItem: Social Madei Marketing
-  - listItem: 24/7 Professional Support
-  - listItem: Online Consultancy
-  - listItem: Seminar & Symphoseum
-  - listItem: Limited Features
+  - listItem: 13 Years Length of Service
+  - listItem: 19 Client Engagements
+  - listItem: 21 Years of Relevant Industry Experience
+  - listItem: Fluency in Three Languages
+  - listItem: Professional Designations in Accounting, Corporate Governance, Marketing,
+      and Finance
