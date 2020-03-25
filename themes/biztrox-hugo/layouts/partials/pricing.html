@@ -1,10 +1,6 @@
 {{ $data := index .Site.Data .Site.Language.Lang }}
 {{ if $data.pricing.enable }}
 {{ "<!-- pricing -->" | safeHTML }}
-
-{{ $data := index .Site.Data .Site.Language.Lang }}
-{{ if $data.pricing.enable }}
-{{ "<!-- pricing -->" | safeHTML }}
 <section class="section">
     <div class="container">
         <div class="row justify-content-center">
