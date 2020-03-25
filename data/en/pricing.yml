@@ -14,10 +14,10 @@ pricingItem:
   btnText: ''
   btnURL: "#"
   serviceList:
-  - listItem: Serving in 48 jurisdictions worldwide
   - listItem: 13 Years Length of Service
   - listItem: 19 Client Engagements
   - listItem: 21 Years of Relevant Industry Experience
   - listItem: Fluency in Three Languages
+  - listItem: Serving in 48 jurisdictions worldwide
   - listItem: Professional Designations in Accounting, Corporate Governance, Marketing,
       and Finance
