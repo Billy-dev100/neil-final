@@ -79,7 +79,7 @@ sections:
   match: "**/*"
 - type: directory
   path: content/pricing
-  label: Implementation Team
+  label: Pricing
   create: all
   match: "**/*"
 upload_dir: static/images
