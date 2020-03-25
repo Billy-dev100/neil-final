@@ -1,6 +1,6 @@
 ---
 enable: true
-heading: Work With Our Extremely Experienced Implementation Team
+heading: Meet Our Implementation Team
 content: Our Team of Practitioners include accountants, marketing gurus, consultants,
   advisors, bankers, project managers, and various levels of support staff. Below
   is a selection of our Team Members in various in situ offices doing what they do
@@ -8,7 +8,7 @@ content: Our Team of Practitioners include accountants, marketing gurus, consult
   so that improved performance and results  are long- lasting.
 pricingItem:
 - title: 'Key Competencies '
-  icon: ti-key
+  icon: ''
   value: ''
   validity: ''
   btnText: ''
