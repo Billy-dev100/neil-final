@@ -10,11 +10,11 @@
             </div>
             {{ "<!-- pricing item -->" | safeHTML }}
             {{ range $data.pricing.pricingItem }}
-            <div class="col-lg-4 col-sm-6 mb-md-50">
+            <div class="col-lg-8 col-sm-6 mb-md-50">
                 <div class="rounded border">
                     <div class="p-4 border-bottom">
-                        <h3 class="text-color mb-0">{{ .title }}</h3>
-                        <i class="square-icon translateY-10 float-right {{ .icon }}"></i>
+                        <h4 class="text-color mb-0">{{ .title }}</h4>
+                       
                     </div>
                     <div class="pt-5 px-4">
                         <h2 class="font-weight-bold mb-3">{{ .value }}<span class="h5">/{{ .validity }}</span>
