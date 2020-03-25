@@ -4,7 +4,7 @@
         <div class="row">     
               {{- $images := .Site.Data.en.onlineImages }}
                 {{- range $images }}
-                <div class="w-100 w-50-ns ph1-ns col-6 pl-2">
+                <div class="w-100 w-50-ns ph1-ns col-12 pl-2">
                   <img src="/images/online/{{ .name  }}" alt="{{ .alt }}">
                 </div>
                 {{- end }}
