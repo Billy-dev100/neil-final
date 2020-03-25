@@ -11,6 +11,10 @@ languageName = ""
 title = "Moneypower International"
 weight = 1
 [[Languages.en.menu.nav]]
+URL = "/pricing"
+name = "Implementation Team"
+weight = ""
+[[Languages.en.menu.nav]]
 URL = "/about"
 name = "About Us"
 weight = 2
