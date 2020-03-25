@@ -17,15 +17,15 @@
                        
                     </div>
                     <div class="pt-5 px-4">
-                        <h2 class="font-weight-bold mb-3">{{ .value }}<span class="h5">/{{ .validity }}</span>
-                        </h2>
+                        <h3 class="font-weight-bold mb-3">{{ .value }}<span class="h5"></span>
+                        </h3>
                         <ul class="pl-0 mb-30">
                             {{ range .serviceList }}
                             <li class="font-secondary text-color py-10 border-bottom">
                                 <i class="text-primary mr-2 ti-arrow-circle-right"></i>{{ .listItem }}</li>
                             {{ end }}
                         </ul>
-                        <a href="{{ .btnURL | absURL }}" class="btn btn-primary translateY-25">{{ .btnText }}</a>
+                       
                     </div>
                 </div>
             </div>
