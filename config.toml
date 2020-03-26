@@ -13,7 +13,7 @@ weight = 1
 [[Languages.en.menu.nav]]
 URL = "/implementation_team/"
 name = "Implementation Team"
-weight = ""
+weight = "5"
 [[Languages.en.menu.nav]]
 URL = "/about"
 name = "About Us"
