@@ -69,7 +69,7 @@ services = "Services"
 subscribe = ""
 subscribeContent = ""
 [[Languages.en.params.footer.quickLinks]]
-URL = "https://opengovuk.com/company/08340424?fbclid=IwAR1vNGubNG__c_bn_cZKfwHC-rb2E3E-2FKS2GaDXsuIxCMjKJbwiJ-L1sk"
+URL = "/"
 quickLinkItem = "legal"
 [[Languages.en.params.footer.service]]
 URL = "/service/diagnostic-review/"
