@@ -6,7 +6,7 @@ description: 'Neil is a visionary executive with special expertise in all aspect
   over 1000 organizations in 48 Countries over a 35-year period with Moneypower International
   – a Company He Founded in 1975. Particular skills developed during this period included
   driving transformational and cultural change in multiple challenging jurisdictions. '
-designation: 'Founder, Chairman & CEO  '
+designation: Chairman Emeritus
 image: images/team-page-44.jpg
 bgImage: images/background/page-title.jpg
 facebookURL: https://www.facebook.com/neilgerald.vanluven.3
